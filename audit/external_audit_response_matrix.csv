@@ -1,0 +1,7 @@
+﻿Audit_Issue,Disposition,Implemented_Action,Result_Effect
+C01/C02 item trace,Re-adjudicated,C01 changed to Veto Hold; C02 retained only after adding three official ASU evidence records and item-level traces.,Public evidence count changed from 3/8 to 2/9.
+Missingness pooled,Resolved,Assigned M0/M3/M4/M7 per row; no current M5 row; M5 defined as excluded from applicable set rather than zero.,Clarifies gate semantics; current count follows recoded rows.
+C07-M04 contradiction,Re-coded,"Cybersecurity/retention changed 0 to 1 based on retention selection, encryption, LMS access, audit logging, and certifications.",C07 remains Veto Hold.
+Other direct contradictions,Re-adjudicated,"C06 M01/M02, C08 M04/M05, C09 M01, C10 M01, and C11 M01 changed to 1 where registered sources directly documented the safeguard.",Case hold states remain unchanged.
+Stale supplement TOPSIS values,Resolved,Supplement table generated from authoritative current CSV and publication-output assertion added.,Exact displayed values corrected; ranks unchanged.
+Dense-rank text/code mismatch,Resolved,Implementation changed to compare each sorted coefficient with the immediately preceding value; chained-near-tie unit assertion added.,No current rank change.

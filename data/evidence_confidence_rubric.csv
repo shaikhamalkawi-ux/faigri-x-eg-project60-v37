@@ -1,0 +1,5 @@
+Evidence_Confidence,Definition,Use_in_calculation
+Medium,"Public evidence directly documents at least one relevant safeguard for the use context; evidence is official, institutional, vendor, or established guidance, but the complete procurement dossier is unavailable.",Metadata only; not a numeric input.
+Low-Medium,"Evidence describes the technology or study context and partially supports governance scoring, but mandatory institutional safeguards are not fully documented.",Metadata only; not a numeric input.
+Low,Evidence documents the use case or product category but provides limited governance detail for the specific deployment decision.,Metadata only; not a numeric input.
+Protocol-only,Synthetic protocol stress-test case used to test the decision rule; not counted as a public-evidence product case and not used for product-level claims.,Metadata only; flagged separately.

@@ -1,0 +1,5 @@
+﻿Phase,Records,Mean_Direct_Count,All_Five_Direct,Mean_Partial_Count
+Beta/Pilot,1,3.0,0,2.0
+Pre-deployment,1,2.0,0,3.0
+Private Beta,2,5.0,2,0.0
+Production,4,4.0,0,1.0

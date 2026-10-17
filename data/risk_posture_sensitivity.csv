@@ -1,0 +1,21 @@
+Lambda,Case_Set,Upper,Review,Lower
+0.0,Public-evidence case,5,6,0
+0.0,Protocol stress-test,0,1,0
+0.02,Public-evidence case,5,6,0
+0.02,Protocol stress-test,0,1,0
+0.05,Public-evidence case,4,7,0
+0.05,Protocol stress-test,0,1,0
+0.1,Public-evidence case,4,7,0
+0.1,Protocol stress-test,0,1,0
+0.125,Public-evidence case,3,8,0
+0.125,Protocol stress-test,0,1,0
+0.15,Public-evidence case,2,9,0
+0.15,Protocol stress-test,0,1,0
+0.16,Public-evidence case,0,11,0
+0.16,Protocol stress-test,0,1,0
+0.25,Public-evidence case,0,11,0
+0.25,Protocol stress-test,0,1,0
+0.75,Public-evidence case,0,5,6
+0.75,Protocol stress-test,0,1,0
+1.25,Public-evidence case,0,3,8
+1.25,Protocol stress-test,0,0,1

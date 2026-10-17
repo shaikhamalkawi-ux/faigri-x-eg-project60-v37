@@ -1,0 +1,12 @@
+Case_ID,Full_Set_CC,LOO_Min_CC,LOO_Max_CC,LOO_Min_Rank,LOO_Max_Rank,Max_Absolute_Rank_Change,Interpretation_Boundary
+C02,0.6762955272185266,0.6671539232115423,0.715998094788051,1,2,1,Set-dependence diagnostic only; does not alter evidence status.
+C03,0.7032844415951066,0.7006125706415279,0.7152889412584719,1,2,1,Set-dependence diagnostic only; does not alter evidence status.
+C04,0.6092258093719869,0.5994182488761008,0.6344261695917311,2,3,1,Set-dependence diagnostic only; does not alter evidence status.
+C05,0.4331530167389839,0.4203008707014933,0.4460836810237652,5,7,1,Set-dependence diagnostic only; does not alter evidence status.
+C06,0.4238960349040858,0.42174389856089733,0.44417852261802276,5,7,2,Set-dependence diagnostic only; does not alter evidence status.
+C07,0.5319385281150601,0.5218639165071864,0.5576915367651281,3,4,1,Set-dependence diagnostic only; does not alter evidence status.
+C08,0.36677967451060806,0.3559945005427375,0.38104905207055373,7,8,1,Set-dependence diagnostic only; does not alter evidence status.
+C09,0.45536946002784795,0.443989354645294,0.4667000061963344,4,5,1,Set-dependence diagnostic only; does not alter evidence status.
+C10,0.30843676356386673,0.3024075751327215,0.3225406889013517,9,10,1,Set-dependence diagnostic only; does not alter evidence status.
+C11,0.3209559074908792,0.3110367004154871,0.33514747928872185,8,9,1,Set-dependence diagnostic only; does not alter evidence status.
+C01,0.6762955272185266,0.6671539232115423,0.715998094788051,1,2,1,Set-dependence diagnostic only; does not alter evidence status.

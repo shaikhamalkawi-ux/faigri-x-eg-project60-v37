@@ -1,0 +1,379 @@
+﻿University_Code,Item_Code,Consensus_Score,Coding_Note,Source_Supplement_Page
+UNITE,1.1,1,"Teachers remain responsible, but no explicit clause guarantees final decision authority in AI-supported assessment.",29
+UNITE,1.2,0,No appeal or contest procedures are defined for AI-influenced assessment outcomes.,29
+UNITE,1.3,2,"Meaningful human oversight is generally required, but fully automated grading is not explicitly prohibited.",29
+UNITE,1.4,2,The university commits to staff training on GenAI; training is not compulsory nor specific to oversight in assessment.,29
+UNITE,2.1,0,"No requirements for validity, reliability, or accuracy testing of AI-supported assessment tools.",29
+UNITE,2.2,0,No mandate to demonstrate alignment of AI outputs with intended learning outcomes or grading criteria.,29
+UNITE,2.3,0,"No lifecycle procedures (testing, error monitoring, decommissioning) are provided for AI tools in assessment.",29
+UNITE,2.4,0,No internal or external reviews/audits are required for AI-supported assessment systems.,29
+UNITE,3.1,3,Explicit GDPR compliance and DPO involvement are stated; assessment-specific details remain generic.,30
+UNITE,3.2,1,"Data minimization is encouraged (e.g., avoid personal data), but retention limits and lawful bases are not specified.",30
+UNITE,3.3,0,"Students’ rights to access, rectification, or erasure in AI-assessment contexts are not articulated.",30
+UNITE,3.4,0,The DPO role is not assigned explicit responsibilities for AI-supported assessment data.,30
+UNITE,4.1,1,Disclosure focuses on students’/teachers’ AI use in coursework; there is no institutional disclosure when AI influences grading.,30
+UNITE,4.2,0,No requirement to provide comprehensible explanations for AI-supported assessment decisions.,30
+UNITE,4.3,1,"Some guidance on documenting prompts/outputs exists, but there is no structured access to criteria, model limits, or error sources.",30
+UNITE,4.4,1,"General training is offered, yet no dedicated communication protocols/support resources help non-technical users interpret AI-derived results.",30
+UNITE,5.1,1,"Fairness and bias risks are acknowledged, but there is no explicit non-discrimination clause for AI assessment systems.",30
+UNITE,5.2,0,No framework for systematic bias monitoring or corrective measures across student groups.,30
+UNITE,5.3,1,Accessibility is referenced in general terms; assessment-specific accommodations for disadvantaged/disabled students are not ensured.,31
+UNITE,5.4,0,No stakeholder consultation mechanisms are mandated for the design or evaluation of AI-supported assessment.,31
+UNITE,6.1,2,"GenAI use is linked to educational values (e.g., trust, learner autonomy), but the connection to assessment contexts is indirect.",31
+UNITE,6.2,3,Environmental impacts (energy/resource costs) are explicitly considered; references to assessment remain general.,31
+UNITE,6.3,3,"Ethical codes/charters (e.g., EU guidance) are referenced; ties to assessment are implicit rather than explicit.",31
+UNITE,7.1,0,No governance roles or responsibilities are defined for AI-assessment implementation and oversight.,31
+UNITE,7.2,0,No oversight committee or ethics board is designated to monitor AI-supported assessment.,31
+UNITE,7.3,0,"No complaint, feedback, or redress mechanisms are specified for AI-influenced assessment outcomes.",31
+UNITE,7.4,0,No periodic review cycle or independent validation is mandated for AI-assessment policies/guidelines.,31
+UNIBO,1.1,2,"The policy states that educators maintain responsibility and discourages delegation of final grading to AI, though it is not a strong explicit mandate.",32
+UNIBO,1.2,0,No procedures are defined for students to appeal or contest AI-influenced assessment outcomes.,32
+UNIBO,1.3,3,Automated grading is explicitly precluded; human review is required.,32
+UNIBO,1.4,1,"The university promotes training on GenAI for staff, but it is generic and not mandatory for AI- assessment oversight.",32
+UNIBO,2.1,0,"No requirement for validity, reliability, or accuracy testing of AI-supported assessment tools.",32
+UNIBO,2.2,1,"Mentions relevance of AI-generated exercises to learning objectives, but no systematic alignment with assessment criteria.",32
+UNIBO,2.3,0,"No procedures for testing, error monitoring, or decommissioning of AI assessment systems.",32
+UNIBO,2.4,0,No requirements for internal or external review/audit of AI-supported assessment.,32
+UNIBO,3.1,1,"Privacy cautions and references to rights are present, but GDPR compliance is not strongly articulated for assessment contexts.",32
+UNIBO,3.2,1,"Generic advice not to upload personal data reflects data minimization principles, but lacks rules on retention or lawful bases.",32
+UNIBO,3.3,0,"No mention of students’ rights to access, correction, or erasure in AI-supported assessment contexts.",33
+UNIBO,3.4,1,"DPO is mentioned in general, but not with responsibilities specific to AI-supported assessment.",33
+UNIBO,4.1,0,"Disclosure is required for AI use by students/teachers, but not when AI influences grading decisions.",33
+UNIBO,4.2,0,No guarantee of comprehensible explanations for AI-supported assessment outcomes.,33
+UNIBO,4.3,0,"Awareness of probabilistic model outputs is encouraged, but no access to assessment criteria, model limits, or error sources is provided.",33
+UNIBO,4.4,1,"Commitments to training and information exist, but no communication protocols to support interpretation of AI assessment outcomes.",33
+UNIBO,5.1,1,"Equity and inclusivity are highlighted; automation bias risks are noted, but no explicit non- discrimination clause exists.",33
+UNIBO,5.2,0,No framework for systematic bias monitoring or corrective measures.,33
+UNIBO,5.3,1,"General references to inclusivity, but no accessibility guarantees in assessment workflows.",33
+UNIBO,5.4,0,"Community involvement is encouraged, but there is no stakeholder consultation specific to assessment systems.",33
+UNIBO,6.1,1,"Broad references to inclusion and trust, but no explicit link between values and AI assessment.",33
+UNIBO,6.2,1,Environmental impacts of AI use are mentioned; application to assessment remains partial.,34
+UNIBO,6.3,1,"Cites ethical codes and frameworks, but references to assessment are indirect.",34
+UNIBO,7.1,1,"Institutional responsibilities are set, but no defined governance roles specific to AI assessment oversight.",34
+UNIBO,7.2,0,No oversight committees or boards are designated for AI-supported assessment.,34
+UNIBO,7.3,1,"Feedback channels exist for AI in general, but no complaints or redress processes specific to assessment.",34
+UNIBO,7.4,0,The policy pledges updates but does not establish periodic review or independent validation mechanisms.,34
+UNIPR,1.1,2,"Teachers retain responsibility for assessment decisions, though a strict clause on final decision authority is not fully explicit.",34
+UNIPR,1.2,0,No appeal/contest procedures are defined for AI-influenced assessment outcomes.,34
+UNIPR,1.3,3,Automated grading is effectively precluded and human review is required.,34
+UNIPR,1.4,0,No mandate for staff training specific to responsible oversight of AI in assessment.,34
+UNIPR,2.1,0,"No requirements for validity, reliability, or accuracy testing of AI-supported assessment tools.",35
+UNIPR,2.2,0,No obligation to demonstrate alignment of AI outputs with intended learning outcomes or grading criteria.,35
+UNIPR,2.3,0,"No lifecycle procedures (testing, error monitoring, decommissioning) for AI in assessment.",35
+UNIPR,2.4,0,No internal/external review or audit requirements for AI-supported assessment systems.,35
+UNIPR,3.1,3,Explicit GDPR compliance and DPO involvement are stated; assessment-specific details remain generic.,35
+UNIPR,3.2,1,"Data minimization is encouraged (e.g., avoid personal data), but rules on retention and lawful bases are not specified.",35
+UNIPR,3.3,0,"Students’ rights to access, rectification, or erasure in AI-assessment contexts are not articulated.",35
+UNIPR,3.4,1,The DPO is referenced; responsibilities for AI-assessment data are not clearly assigned.,35
+UNIPR,4.1,1,Disclosure focuses on students’/teachers’ AI use in coursework; no institutional disclosure when AI influences grading.,35
+UNIPR,4.2,0,No requirement to provide comprehensible explanations for AI-supported assessment decisions.,35
+UNIPR,4.3,1,"Some guidance on documenting prompts/outputs exists; no structured access to criteria, model limits, or error sources.",36
+UNIPR,4.4,1,"General training is offered, but no dedicated communication protocols/support resources to interpret AI-derived results.",36
+UNIPR,5.1,1,"Fairness and bias risks are acknowledged, yet there is no explicit non-discrimination clause for AI assessment systems.",36
+UNIPR,5.2,0,No framework for bias monitoring or corrective measures across student groups.,36
+UNIPR,5.3,0,No measures ensure accessibility or inclusion of disadvantaged/disabled students in AI-supported assessment.,36
+UNIPR,5.4,0,No stakeholder consultation mechanisms are mandated for AI-supported assessment.,36
+UNIPR,6.1,2,"GenAI use is linked to educational values (trust, learner autonomy), but the tie to assessment is indirect.",36
+UNIPR,6.2,0,Environmental implications of AI are not addressed in assessment contexts.,36
+UNIPR,6.3,1,Ethical codes/charters are referenced in broad terms; assessment-specific references are limited.,36
+UNIPR,7.1,0,No governance roles or responsibilities are defined for AI-assessment implementation and oversight.,36
+UNIPR,7.2,0,No oversight committee or ethics board is designated to monitor AI-supported assessment.,37
+UNIPR,7.3,0,"No complaint, feedback, or redress mechanisms are specified for AI-influenced assessment outcomes.",37
+UNIPR,7.4,2,"The guidelines commit to periodic updating, but do not require independent validation of AI- assessment policies.",37
+UNIBG,1.1,2,"Teachers retain responsibility for assessment decisions, though an explicit clause on final decision authority is not fully stated.",37
+UNIBG,1.2,0,No appeal/contest procedures are defined for AI-influenced assessment outcomes.,37
+UNIBG,1.3,3,Automated grading is effectively precluded and human review is required; one rater is slightly stricter due to wording.,37
+UNIBG,1.4,2,"Training on GenAI is committed institutionally, but it is not compulsory nor specific to oversight of AI in assessment.",37
+UNIBG,2.1,1,"Some concern for accuracy is acknowledged, yet there is no formal requirement for validity/reliability testing of assessment tools.",37
+UNIBG,2.2,1,"Partial recognition of alignment with learning outcomes exists, but no systematic mandate tied to grading criteria.",37
+UNIBG,2.3,1,Lifecycle controls (testing/monitoring/decommissioning) are hinted at but not specified as procedures.,38
+UNIBG,2.4,0,No internal/external review or audit requirements for AI-supported assessment systems.,38
+UNIBG,3.1,3,Explicit GDPR compliance and DPO involvement are stated; assessment-specific details remain general.,38
+UNIBG,3.2,1,"Data minimization is encouraged (e.g., avoid personal data), but retention limits and lawful bases are not defined.",38
+UNIBG,3.3,0,"Students’ rights to access, rectification, or erasure in AI-assessment contexts are not articulated.",38
+UNIBG,3.4,0,No explicit assignment of DPO responsibilities for AI-assessment data.,38
+UNIBG,4.1,2,Disclosure focuses on students’/teachers’ AI use in coursework; no institutional disclosure when AI influences grading.,38
+UNIBG,4.2,0,No requirement to provide comprehensible explanations of AI-supported assessment decisions.,38
+UNIBG,4.3,1,"Some guidance to record prompts/outputs exists, but no structured access to criteria, model limitations, or error sources.",38
+UNIBG,4.4,0,No communication protocols or support resources to help non-technical users interpret AI-derived results.,38
+UNIBG,5.1,2,Fairness and bias risks are highlighted; there is no explicit non-discrimination clause for AI assessment systems.,39
+UNIBG,5.2,0,No framework for systematic bias monitoring or corrective actions across student groups.,39
+UNIBG,5.3,1,Accessibility is referenced in general terms; assessment-specific accommodations are not ensured.,39
+UNIBG,5.4,0,No stakeholder consultation mechanisms are mandated for AI-supported assessment.,39
+UNIBG,6.1,2,"GenAI use is linked to educational values (trust, autonomy); the connection to assessment is indirect.",39
+UNIBG,6.2,1,"Environmental implications are mentioned at a high level, without explicit link to assessment workflows.",39
+UNIBG,6.3,2,Ethical codes/charters are referenced broadly; assessment-specific guidance is limited.,39
+UNIBG,7.1,1,"General institutional responsibilities are noted, but no governance roles specific to AI-assessment oversight.",39
+UNIBG,7.2,0,No oversight committee or ethics board is designated to monitor AI-supported assessment.,39
+UNIBG,7.3,0,"No complaint, feedback, or redress mechanisms are specified for AI-influenced assessment outcomes.",39
+UNIBG,7.4,1,"The guidelines indicate updates over time, without a formal periodic review cycle or independent validation.",40
+UNIMI,1.1,3,Educators’ final decision authority in assessment is explicitly guaranteed; one rater is slightly stricter in interpretation.,40
+UNIMI,1.2,0,No procedures are defined for students to appeal or contest AI-influenced assessment outcomes.,40
+UNIMI,1.3,3,Fully automated grading is effectively precluded and meaningful human oversight is required; one rater credits it slightly lower due to wording.,40
+UNIMI,1.4,2,"Staff training on GenAI is planned/encouraged, but not compulsory nor specifically focused on oversight for assessment.",40
+UNIMI,2.1,1,"Basic attention to accuracy/reliability is noted, yet there is no formal requirement for validity/reliability testing of assessment tools.",40
+UNIMI,2.2,2,"Alignment of AI outputs to intended learning outcomes is addressed more clearly than average, though not as a full procedural mandate.",40
+UNIMI,2.3,1,Lifecycle controls (testing/monitoring/decommissioning) are hinted at but not codified as procedures.,40
+UNIMI,2.4,1,"Some review intent is referenced, but no explicit internal/external audit requirement is set for AI-supported assessment.",40
+UNIMI,3.1,3,Explicit GDPR compliance and DPO involvement are stated; assessment-specific provisions remain general.,41
+UNIMI,3.2,2,Data minimization and related safeguards are addressed; retention limits and lawful bases are referenced but not fully operationalized.,41
+UNIMI,3.3,0,"Students’ rights (access, rectification, erasure) in AI-assessment contexts are not articulated.",41
+UNIMI,3.4,1,The DPO is referenced; responsibilities specific to AI-assessment data governance are not clearly assigned.,41
+UNIMI,4.1,3,Strong disclosure rules: AI use impacting coursework/assessment must be declared; one rater gives slightly lower credit for institutional-vs-user disclosure nuance.,41
+UNIMI,4.2,1,"Some provisions support transparency, but there is no explicit right to a comprehensible explanation of AI-influenced assessment decisions.",41
+UNIMI,4.3,1,"Documentation of prompts/outputs and awareness of limitations are encouraged; structured access to criteria, model limits, and error sources is limited.",41
+UNIMI,4.4,1,"General training/info exists, but no dedicated communication protocols or support resources to help non-technical users interpret AI-derived results.",41
+UNIMI,5.1,2,"Fairness and non-discrimination are addressed more explicitly than average, though not fully operationalized for AI systems.",41
+UNIMI,5.2,1,Bias monitoring is acknowledged at a high level; there is no systematic requirement with corrective measures.,42
+UNIMI,5.3,2,"Accessibility/inclusion considerations are present, with partial safeguards for assessment; implementation details are limited.",42
+UNIMI,5.4,1,Stakeholder consultation is encouraged but not mandated nor structured for AI-supported assessment.,42
+UNIMI,6.1,2,"GenAI adoption is linked to educational values (e.g., inclusion, learner autonomy); the tie to assessment contexts is indirect.",42
+UNIMI,6.2,2,"Environmental implications (energy/resources) are recognized, without assessment-specific operational measures.",42
+UNIMI,6.3,3,"Ethical codes and international charters (e.g., EU) are explicitly referenced; links to assessment practice are implicit.",42
+UNIMI,7.1,2,Governance responsibilities are described at a higher level; assessment-specific oversight roles are not fully defined.,42
+UNIMI,7.2,2,"Some oversight arrangements exist, though formal committees/boards dedicated to AI assessment are not clearly instituted.",42
+UNIMI,7.3,1,General feedback/complaint channels exist; no redress mechanism specific to AI-influenced assessment outcomes.,42
+UNIMI,7.4,1,"There is a commitment to update guidance over time, but no formal periodic review cycle or independent validation requirement.",43
+POLIMI,1.1,1,"Teachers remain responsible, but there is no explicit clause guaranteeing educators’ final decision authority in AI-supported assessment.",43
+POLIMI,1.2,0,No procedures are defined for students to appeal or contest AI-influenced assessment outcomes.,43
+POLIMI,1.3,1,"Human oversight is implied, yet fully automated grading is not expressly prohibited.",43
+POLIMI,1.4,1,Staff training on GenAI is encouraged but not compulsory nor specifically focused on oversight for assessment.,43
+POLIMI,2.1,0,"No requirements for validity, reliability, or accuracy testing of AI-supported assessment tools.",43
+POLIMI,2.2,0,No obligation to demonstrate alignment of AI outputs with intended learning outcomes or grading criteria.,43
+POLIMI,2.3,1,Lifecycle controls (testing/monitoring/decommissioning) are hinted at but not defined as procedures.,43
+POLIMI,2.4,0,No internal or external review/audit requirements for AI-supported assessment systems.,43
+POLIMI,3.1,2,GDPR compliance and DPO involvement are stated; provisions for assessment are generic.,43
+POLIMI,3.2,1,"Data minimization is encouraged (e.g., avoid personal data), but retention limits and lawful bases are not specified.",44
+POLIMI,3.3,0,"Students’ rights to access, rectification, or erasure in AI-assessment contexts are not articulated.",44
+POLIMI,3.4,0,No explicit assignment of DPO responsibilities for AI-assessment data governance.,44
+POLIMI,4.1,1,Disclosure focuses on students’/teachers’ AI use in coursework; there is no institutional disclosure when AI influences grading.,44
+POLIMI,4.2,0,No requirement to provide comprehensible explanations for AI-supported assessment decisions.,44
+POLIMI,4.3,0,"No guarantees of stakeholder access to assessment criteria, model limitations, or error sources.",44
+POLIMI,4.4,0,No communication protocols or support resources for non-technical users interpreting AI-derived results.,44
+POLIMI,5.1,0,No explicit non-discrimination clause addressing AI-supported assessment systems.,44
+POLIMI,5.2,0,No framework for bias monitoring or corrective measures across student groups.,44
+POLIMI,5.3,0,No provisions to ensure accessibility/inclusion for disadvantaged or disabled students in AI-supported assessment.,44
+POLIMI,5.4,0,No stakeholder consultation mechanisms are mandated for AI-supported assessment.,45
+POLIMI,6.1,1,"GenAI use is linked to educational values (e.g., trust, autonomy), but the connection to assessment contexts is indirect.",45
+POLIMI,6.2,0,Environmental implications of AI are not addressed in assessment workflows.,45
+POLIMI,6.3,1,Ethical codes/charters are referenced broadly; assessment-specific guidance is limited.,45
+POLIMI,7.1,0,No governance roles or responsibilities are defined for AI-assessment implementation and oversight.,45
+POLIMI,7.2,0,No oversight committee or ethics board is designated to monitor AI-supported assessment.,45
+POLIMI,7.3,0,"No complaint, feedback, or redress mechanisms are specified for AI-influenced assessment outcomes.",45
+POLIMI,7.4,1,"There is a commitment to update guidance over time, but no formal periodic review cycle or independent validation.",45
+UNICAM,1.1,2,"Teachers retain responsibility for assessment; however, an explicit clause guaranteeing final decision authority is not fully stated.",45
+UNICAM,1.2,0,No procedures are defined for students to appeal or contest AI-influenced assessment outcomes.,45
+UNICAM,1.3,3,Fully automated grading is effectively precluded and meaningful human oversight is required; one rater is slightly stricter due to wording.,46
+UNICAM,1.4,1,"Staff training on GenAI is encouraged, but it is not compulsory nor specifically focused on oversight for assessment.",46
+UNICAM,2.1,1,"Some attention to accuracy/reliability appears, yet there is no formal requirement for validity/reliability testing of assessment tools.",46
+UNICAM,2.2,0,No mandate exists to demonstrate alignment of AI outputs with intended learning outcomes or grading criteria.,46
+UNICAM,2.3,1,Lifecycle controls (testing/monitoring/decommissioning) are hinted at but not defined as procedures.,46
+UNICAM,2.4,2,"Some internal review intent is referenced; however, there is no explicit institutional audit requirement for AI-supported assessment.",46
+UNICAM,3.1,3,Explicit GDPR compliance and DPO involvement are stated; assessment-specific provisions remain general.,46
+UNICAM,3.2,1,"Data minimization is encouraged (e.g., avoid personal data), but retention limits and lawful bases are not specified.",46
+UNICAM,3.3,0,"Students’ rights (access, rectification, erasure) in AI-assessment contexts are not articulated.",46
+UNICAM,3.4,0,No explicit assignment of DPO responsibilities for AI-assessment data governance.,47
+UNICAM,4.1,1,Disclosure focuses on students’/teachers’ AI use in coursework; there is no institutional disclosure when AI influences grading.,47
+UNICAM,4.2,0,No requirement to provide comprehensible explanations for AI-supported assessment decisions.,47
+UNICAM,4.3,0,"No guarantees of stakeholder access to assessment criteria, model limitations, or error sources.",47
+UNICAM,4.4,0,No communication protocols or support resources are defined for non-technical users interpreting AI- derived results.,47
+UNICAM,5.1,0,No explicit non-discrimination clause addressing AI-supported assessment systems.,47
+UNICAM,5.2,0,No framework for bias monitoring or corrective measures across student groups.,47
+UNICAM,5.3,0,No provisions to ensure accessibility/inclusion for disadvantaged or disabled students in AI-supported assessment.,47
+UNICAM,5.4,0,No stakeholder consultation mechanisms are mandated for AI-supported assessment.,47
+UNICAM,6.1,1,"GenAI use is linked to educational values (e.g., trust, autonomy); the connection to assessment contexts is indirect.",47
+UNICAM,6.2,0,Environmental implications of AI are not addressed in assessment workflows.,47
+UNICAM,6.3,2,Ethical codes/charters are referenced explicitly; links to assessment practice are mostly implicit.,48
+UNICAM,7.1,1,"General institutional responsibilities are noted, but no governance roles specific to AI-assessment oversight are defined.",48
+UNICAM,7.2,1,"Some oversight intent is mentioned, yet no dedicated ethics board/committee for AI-supported assessment is clearly instituted.",48
+UNICAM,7.3,0,"No complaint, feedback, or redress mechanisms are specified for AI-influenced assessment outcomes.",48
+UNICAM,7.4,2,"There is a commitment to update guidance over time, but no formal periodic review cycle or independent validation is set.",48
+UNIPO,1.1,3,Educators’ final decision authority is explicitly guaranteed; one rater is slightly stricter in interpretation.,48
+UNIPO,1.2,1,"Some recognition of students’ ability to contest outcomes exists, but no formalized appeal procedure is set.",48
+UNIPO,1.3,3,"Fully automated grading is precluded, with meaningful human oversight explicitly required.",48
+UNIPO,1.4,2,Faculty training on responsible GenAI use is committed; not compulsory nor entirely specific to oversight in assessment.,48
+UNIPO,2.1,2,"Requirements for validity/reliability are addressed more explicitly than average, though not formalized as a process.",49
+UNIPO,2.2,1,Partial attention to alignment with learning outcomes is present; not mandated systematically.,49
+UNIPO,2.3,2,Monitoring and updating of AI tools are acknowledged; procedural details remain limited.,49
+UNIPO,2.4,2,Internal/external review is referenced but not mandated as a structured audit requirement.,49
+UNIPO,3.1,3,Explicit GDPR compliance and DPO involvement are stated; assessment-related provisions are general.,49
+UNIPO,3.2,3,"Data minimization, lawful bases, and retention limits are explicitly referenced, though implementation may vary.",49
+UNIPO,3.3,2,"Students’ rights (access, rectification, erasure) are mentioned, but not systematically ensured in AI- assessment contexts.",49
+UNIPO,3.4,1,DPO is referenced; explicit responsibilities for AI-assessment data governance are not clearly defined.,49
+UNIPO,4.1,1,"Disclosure obligations exist, but are not directly tied to AI’s role in grading decisions.",49
+UNIPO,4.2,1,"Some transparency provisions exist, but no explicit right to comprehensible explanations of AI- influenced outcomes.",49
+UNIPO,4.3,1,"Stakeholders are encouraged to record prompts/outputs; access to criteria, model limits, or error sources is not structured.",50
+UNIPO,4.4,1,"General training/support exists, but no dedicated communication protocols for non-technical users.",50
+UNIPO,5.1,2,"Fairness and non-discrimination are addressed, though not fully operationalized for AI assessment.",50
+UNIPO,5.2,2,"Bias monitoring and impacts across groups are acknowledged, though corrective mechanisms are not mandatory.",50
+UNIPO,5.3,1,"Accessibility and inclusion are noted, but assessment-specific accommodations are not explicitly defined.",50
+UNIPO,5.4,1,Stakeholder consultation is encouraged but not structured nor mandated for AI assessment.,50
+UNIPO,6.1,2,"GenAI adoption is linked to educational values (trust, autonomy, inclusion); the tie to assessment remains indirect.",50
+UNIPO,6.2,0,Environmental implications of AI are not addressed in assessment contexts.,50
+UNIPO,6.3,2,Ethical codes/charters are explicitly referenced; links to assessment practice are mostly implicit.,50
+UNIPO,7.1,3,Governance roles are clearly defined; not all provisions are assessment-specific.,50
+UNIPO,7.2,2,Oversight committees/boards are acknowledged; their role in AI-supported assessment is not fully detailed.,51
+UNIPO,7.3,1,General complaint/feedback channels exist; no redress mechanisms are specific to AI-influenced assessment.,51
+UNIPO,7.4,2,"Commitment to review and update policies is present, though periodic cycles and independent validation are not mandated.",51
+UNIFI,1.1,3,Educators’ final decision authority in assessment is explicitly guaranteed; one rater scores slightly lower due to wording nuance.,51
+UNIFI,1.2,0,No procedures are defined for students to appeal or contest AI-influenced assessment outcomes.,51
+UNIFI,1.3,3,Fully automated grading is precluded and meaningful human oversight is required; one rater assigns slightly less credit.,51
+UNIFI,1.4,1,"Staff training on GenAI is encouraged, but it is not compulsory nor specifically focused on oversight for assessment.",51
+UNIFI,2.1,1,"Some attention to accuracy/reliability appears, yet there is no formal requirement for validity/reliability testing of assessment tools.",51
+UNIFI,2.2,1,Partial recognition that outputs should match learning outcomes; no systematic mandate tied to grading criteria.,51
+UNIFI,2.3,0,"No lifecycle procedures (testing, error monitoring, decommissioning) for AI in assessment.",52
+UNIFI,2.4,0,No internal or external review/audit requirements for AI-supported assessment systems.,52
+UNIFI,3.1,2,GDPR compliance and DPO support are stated; assessment-specific provisions remain general.,52
+UNIFI,3.2,2,Data minimization and related safeguards are addressed; retention limits/lawful bases are referenced but not fully operationalized.,52
+UNIFI,3.3,0,"Students’ rights (access, rectification, erasure) in AI-assessment contexts are not articulated.",52
+UNIFI,3.4,0,No explicit assignment of DPO responsibilities for AI-assessment data governance.,52
+UNIFI,4.1,2,Disclosure duties exist for AI use in coursework; no institutional disclosure when AI influences grading decisions.,52
+UNIFI,4.2,1,"Some transparency provisions exist, but no explicit right to a comprehensible explanation of AI- influenced outcomes.",52
+UNIFI,4.3,2,Documentation of prompts/outputs and awareness of limitations are encouraged; structured access to criteria/model limits remains limited.,52
+UNIFI,4.4,1,"General training/info exists, but no dedicated communication protocols or support resources for non-technical users.",52
+UNIFI,5.1,2,"Fairness and non-discrimination are addressed more explicitly than average, though not fully operationalized for AI systems.",53
+UNIFI,5.2,0,No framework for systematic bias monitoring or corrective measures across student groups.,53
+UNIFI,5.3,3,Accessibility/inclusion are strongly emphasized with partial safeguards for assessment; implementation details are limited.,53
+UNIFI,5.4,0,No stakeholder consultation mechanisms are mandated for AI-supported assessment.,53
+UNIFI,6.1,2,"GenAI adoption is linked to educational values (inclusion, learner autonomy); the tie to assessment is indirect.",53
+UNIFI,6.2,2,"Environmental implications (energy/resources) are recognized, without assessment-specific operational measures.",53
+UNIFI,6.3,2,Ethical codes/charters are referenced; links to assessment practice are largely implicit.,53
+UNIFI,7.1,1,"General institutional responsibilities are noted, but no governance roles specific to AI-assessment oversight are defined.",53
+UNIFI,7.2,0,No oversight committee or ethics board is designated to monitor AI-supported assessment.,53
+UNIFI,7.3,0,"No complaint, feedback, or redress mechanisms are specified for AI-influenced assessment outcomes.",53
+UNIFI,7.4,2,"Commitment to review/update policies is present, but no formal periodic cycle or independent validation is mandated.",54
+UNISI,1.1,2,"Educators are confirmed as responsible in assessment, though the policy does not always phrase it as exclusive final authority.",54
+UNISI,1.2,0,No appeal or contestation mechanism is foreseen for AI-influenced assessment outcomes.,54
+UNISI,1.3,2,Meaningful human oversight is required and automation is discouraged; wording remains somewhat generic.,54
+UNISI,1.4,2,"Training for staff on GenAI use is promoted, but not fully specified as mandatory oversight preparation.",54
+UNISI,2.1,1,"Some references to accuracy and reliability are present, but without formal requirements for validation of assessment tools.",54
+UNISI,2.2,0,No clear mandate that AI outputs must align with learning outcomes and grading criteria.,54
+UNISI,2.3,1,"Monitoring and corrective actions are mentioned in principle, but no structured procedures for testing/updating tools exist.",54
+UNISI,2.4,0,No internal or external audits are required for AI systems in assessment.,54
+UNISI,3.1,2,GDPR compliance is explicitly required; coverage is broad but not tailored to AI assessment contexts.,55
+UNISI,3.2,1,Data minimization and lawful bases are encouraged indirectly; retention rules are not fully detailed.,55
+UNISI,3.3,0,"Students’ rights to access, correction, or deletion of assessment data are not addressed.",55
+UNISI,3.4,0,No clear allocation of responsibilities to the DPO for AI assessment data.,55
+UNISI,4.1,2,"Disclosure obligations exist for AI use, but institutional communication on grading influence is not mandated.",55
+UNISI,4.2,1,"Some guidance toward transparency is offered, though no explicit right to comprehensible explanations is guaranteed.",55
+UNISI,4.3,1,Stakeholders are advised to reflect on limitations; no structured information access on models or errors is provided.,55
+UNISI,4.4,1,"Training and general awareness initiatives are included, without clear support resources for non-technical users.",55
+UNISI,5.1,1,"Fairness and equity principles are acknowledged, but without an explicit ban on discrimination in AI-supported assessment.",55
+UNISI,5.2,0,No monitoring process for bias or corrective measures across groups is established.,55
+UNISI,5.3,0,Accessibility and inclusion for disadvantaged students are not addressed in the assessment context.,56
+UNISI,5.4,1,"Consultation and collaboration are encouraged broadly, but no explicit stakeholder involvement is required in assessment design.",56
+UNISI,6.1,1,"AI adoption is linked to educational values like autonomy and responsibility, but connections to assessment remain indirect.",56
+UNISI,6.2,0,Environmental sustainability issues are not addressed in assessment-related AI use.,56
+UNISI,6.3,1,"References to ethical codes are present, though not tied specifically to AI in assessment.",56
+UNISI,7.1,1,"General governance responsibilities are indicated, but no specific roles for AI-assessment oversight are defined.",56
+UNISI,7.2,0,No committee or ethics board is tasked with monitoring AI assessment practices.,56
+UNISI,7.3,1,"Feedback and complaint mechanisms exist in general academic regulations, but no AI-specific measures are foreseen.",56
+UNISI,7.4,1,Commitment to update guidelines is explicit; periodic cycles or independent validation are not specified.,56
+UNITN,1.1,2,"Educators are responsible for assessment decisions, though an explicit clause on exclusive final authority is not fully stated.",56
+UNITN,1.2,0,No appeal/contest procedures are provided for AI-influenced assessment outcomes.,57
+UNITN,1.3,2,Meaningful human oversight is required and automation discouraged; the prohibition is not fully explicit.,57
+UNITN,1.4,1,"Staff training on GenAI is encouraged, but it is neither compulsory nor specifically focused on assessment oversight.",57
+UNITN,2.1,1,"Some attention to accuracy/reliability appears, without formal validity/reliability requirements for assessment tools.",57
+UNITN,2.2,0,No mandate that AI outputs align with learning outcomes and grading criteria.,57
+UNITN,2.3,1,Lifecycle controls (testing/monitoring/decommissioning) are hinted at but not defined as procedures.,57
+UNITN,2.4,0,No internal or external reviews/audits are required for AI-supported assessment systems.,57
+UNITN,3.1,2,GDPR compliance and DPO support are stated; assessment-specific provisions remain general.,57
+UNITN,3.2,1,"Data minimization is encouraged (e.g., avoid personal data), but retention and lawful-basis rules are not specified.",57
+UNITN,3.3,0,"Students’ rights (access, rectification, erasure) in AI-assessment contexts are not articulated.",57
+UNITN,3.4,0,No explicit assignment of DPO responsibilities for AI-assessment data governance.,57
+UNITN,4.1,2,Disclosure duties exist for AI use in coursework; institutional disclosure when AI influences grading is not mandated.,58
+UNITN,4.2,1,"Some transparency provisions exist, but no explicit right to comprehensible explanations of AI- influenced outcomes.",58
+UNITN,4.3,0,"No guarantees of stakeholder access to assessment criteria, model limitations, or error sources.",58
+UNITN,4.4,0,No communication protocols or support resources for non-technical users interpreting AI-derived results.,58
+UNITN,5.1,1,Fairness and bias risks are acknowledged; there is no explicit non-discrimination clause for AI assessment systems.,58
+UNITN,5.2,0,No framework for systematic bias monitoring or corrective measures across student groups.,58
+UNITN,5.3,0,No provisions ensure accessibility or inclusion for disadvantaged/disabled students in AI-supported assessment.,58
+UNITN,5.4,0,No stakeholder consultation mechanisms are mandated for AI-supported assessment.,58
+UNITN,6.1,1,"GenAI use is linked to educational values (e.g., autonomy, trust); the connection to assessment contexts is indirect.",58
+UNITN,6.2,1,"Environmental implications are mentioned at a high level, without assessment-specific operational measures.",59
+UNITN,6.3,1,Ethical codes/charters are referenced broadly; links to assessment practice are mostly implicit.,59
+UNITN,7.1,1,"General governance responsibilities are indicated, but no roles specific to AI-assessment oversight are defined.",59
+UNITN,7.2,0,No committee or ethics board is tasked with monitoring AI-supported assessment.,59
+UNITN,7.3,0,"No complaint, feedback, or redress mechanisms are specified for AI-influenced assessment outcomes.",59
+UNITN,7.4,1,"Commitment to update guidance over time is stated, but no formal periodic review cycle or independent validation is mandated.",59
+UNISTRAPG,1.1,2,The policy emphasizes that teachers maintain responsibility and discourages AI substitution in grading.,59
+UNISTRAPG,1.2,0,No procedures exist for students to appeal or contest AI-influenced assessment results.,59
+UNISTRAPG,1.3,2,Automated grading is explicitly precluded; meaningful human oversight is consistently required.,59
+UNISTRAPG,1.4,1,"The guidelines commit to training initiatives for staff, though they are not yet structured or mandatory.",59
+UNISTRAPG,2.1,3,"The policy requires validity checks for certain AI use cases, especially code-related tasks.",60
+UNISTRAPG,2.2,0,No provisions ensure systematic alignment of AI outputs with learning outcomes or assessment criteria.,60
+UNISTRAPG,2.3,3,"Procedures for testing, error monitoring, and decommissioning are clearly established.",60
+UNISTRAPG,2.4,2,Internal audit and review measures are required for AI tools in teaching and assessment.,60
+UNISTRAPG,3.1,3,The guidelines explicitly require GDPR compliance and involve the DPO.,60
+UNISTRAPG,3.2,2,"References to minimization and protection principles are present, though concrete limits on retention or lawful bases are not detailed.",60
+UNISTRAPG,3.3,1,Mentions of data subject rights are generic.,60
+UNISTRAPG,3.4,1,The DPO is mentioned but roles are not detailed for assessment.,60
+UNISTRAPG,4.1,2,The policy requires students to declare AI use in assignments.,60
+UNISTRAPG,4.2,3,The guidelines clearly encourage transparency in outputs.,60
+UNISTRAPG,4.3,2,"Stakeholders are encouraged to record prompts/outputs, which provides partial access to information on limitations and risks.",60
+UNISTRAPG,4.4,2,"Workshops and training exist to help students and staff interpret AI outcomes, but no formal communication protocols are defined.",61
+UNISTRAPG,5.1,3,The document explicitly refers to fairness and warns against bias.,61
+UNISTRAPG,5.2,3,"Monitoring for bias and inequity is encouraged, corrective measures are codified.",61
+UNISTRAPG,5.3,0,"Some mention of accessibility values is included, but no provisions for disadvantaged or disabled students in AI assessment.",61
+UNISTRAPG,5.4,1,"Interdisciplinary collaboration and pilots are encouraged, but no mandatory stakeholder consultation processes are defined.",61
+UNISTRAPG,6.1,2,"The guidelines connect GenAI adoption to values of trust and collaboration; however, ties to assessment contexts are indirect.",61
+UNISTRAPG,6.2,2,"Environmental impacts of AI are recognized, but not specifically framed within assessment.",61
+UNISTRAPG,6.3,2,"The policy references ethical codes and international guidelines (EU AI Act, HLEG), though explicit ties to assessment are limited.",61
+UNISTRAPG,7.1,2,"High-level governance responsibilities are set, though no detailed oversight roles for assessment are defined.",61
+UNISTRAPG,7.2,1,"Mentions oversight in general, but no specific ethics boards or committees for AI-supported assessment.",61
+UNISTRAPG,7.3,1,"General feedback mechanisms exist via academic integrity procedures, but no redress mechanisms specific to AI in assessment.",62
+UNISTRAPG,7.4,2,"The guidelines commit to regular updates as technologies evolve, though no independent validation is required.",62
+UNIVE,1.1,0,"The policy stresses that teachers remain responsible, but it does not explicitly guarantee final decision authority in AI-supported assessment.",62
+UNIVE,1.2,0,No procedures exist for students to appeal or contest AI-influenced assessment outcomes.,62
+UNIVE,1.3,0,"The text discourages reliance on AI detectors and emphasizes teacher verification, but it does not explicitly prohibit fully automated grading.",62
+UNIVE,1.4,1,"The university commits to staff training on GenAI, but training is general and not specific to oversight of AI-supported assessment.",62
+UNIVE,2.1,0,"There is limited reference to accuracy concerns (e.g., coding bug detection), but no structured requirement for validity or reliability of assessment tools.",62
+UNIVE,2.2,0,No mandate exists to ensure AI outputs align with intended learning outcomes or assessment criteria.,62
+UNIVE,2.3,0,"No procedures are defined for testing, error monitoring, or decommissioning of AI-supported assessment tools.",62
+UNIVE,2.4,0,No requirements for internal or external review or audit of AI-supported assessment systems.,63
+UNIVE,3.1,2,"GDPR compliance is explicitly referenced and the DPO is mentioned, although responsibilities specific to AI in assessment are not described.",63
+UNIVE,3.2,1,"The policy cautions against uploading personal data, reflecting minimization principles, but does not specify retention or lawful basis rules.",63
+UNIVE,3.3,0,"Students’ rights to access, correction, or deletion of data are not articulated.",63
+UNIVE,3.4,1,"The DPO is referenced, but responsibilities regarding AI-supported assessment are not clearly assigned.",63
+UNIVE,4.1,1,"Students must disclose use of GenAI in coursework; however, there is no institutional disclosure when AI influences grading.",63
+UNIVE,4.2,1,"Disclosure provisions exist, but no structured requirement for providing comprehensible explanations of AI-supported assessment outcomes.",63
+UNIVE,4.3,0,"No guarantees are made for stakeholder access to criteria, model limitations, or error sources.",63
+UNIVE,4.4,0,No communication protocols or support resources are defined for non-technical users interpreting AI- driven assessment outcomes.,63
+UNIVE,5.1,1,"The guidelines highlight risks of automation bias and reference equity, but there is no explicit non- discrimination clause for AI assessment.",63
+UNIVE,5.2,0,No provisions require monitoring for bias or corrective measures across student groups.,64
+UNIVE,5.3,0,No measures ensure accessibility or inclusion of disadvantaged or disabled students in AI-supported assessment.,64
+UNIVE,5.4,0,No stakeholder consultation mechanisms are established for AI-supported assessment.,64
+UNIVE,6.1,1,The policy links GenAI use to values such as originality and equity; the connection to assessment contexts is indirect.,64
+UNIVE,6.2,1,Environmental impacts are mentioned in general terms; no explicit tie to AI-supported assessment.,64
+UNIVE,6.3,1,"References are made to ethical codes and EU guidelines, but they are broad and not assessment- specific.",64
+UNIVE,7.1,0,No governance roles or responsibilities are defined for AI-supported assessment oversight.,64
+UNIVE,7.2,0,No oversight committees or ethics boards are designated to monitor AI-supported assessment.,64
+UNIVE,7.3,0,"No mechanisms are provided for feedback, complaints, or redress regarding AI in assessment.",64
+UNIVE,7.4,0,No commitments exist for periodic review or independent validation of AI-supported assessment policies.,64
+UNINA,1.1,0,No official UNINA policy on GenAI in assessment has been located; no provisions regarding final decision-making authority.,65
+UNINA,1.2,0,No policy available; no evidence of appeal or contest procedures related to AI-influenced assessment outcomes.,65
+UNINA,1.3,0,No institutional requirement ensuring human oversight over automated grading has been identified.,65
+UNINA,1.4,0,No commitments to staff training specific to AI-supported assessment oversight found.,65
+UNINA,2.1,0,"No pre-deployment requirements regarding validity, reliability, or accuracy of AI tools are defined.",65
+UNINA,2.2,0,No evidence that AI outputs must align with learning outcomes or assessment criteria.,65
+UNINA,2.3,0,"No institutional procedures regarding testing, error monitoring, or decommissioning of AI systems.",65
+UNINA,2.4,0,No audit or review mechanisms specified in available UNINA sources.,65
+UNINA,3.1,0,No explicit mention of GDPR compliance in AI-supported assessment contexts found.,65
+UNINA,3.2,0,"No references to minimization, retention limits, or lawful bases for AI-supported assessment data.",65
+UNINA,3.3,0,No articulation of data subject rights related to AI use in assessments identified.,65
+UNINA,3.4,0,No clear assignment of Data Protection Officer roles in relation to AI-supported assessment.,66
+UNINA,4.1,0,No disclosure rules requiring notification when AI contributes to assessment outcomes.,66
+UNINA,4.2,0,No provisions requiring explanations of AI-influenced grading decisions.,66
+UNINA,4.3,0,No obligations to provide information about AI model limitations or error sources.,66
+UNINA,4.4,0,No communication protocols or support resources identified.,66
+UNINA,5.1,0,No explicit clauses prohibiting discrimination or bias in AI-supported assessments.,66
+UNINA,5.2,0,No monitoring or corrective measures for bias in AI systems identified.,66
+UNINA,5.3,0,No policy references ensuring accessibility or inclusion in AI-supported assessments.,66
+UNINA,5.4,0,No requirement for stakeholder consultation regarding AI use in assessment.,66
+UNINA,6.1,0,No available documentation linking AI adoption in assessment to educational values.,66
+UNINA,6.2,0,No references to environmental or sustainability considerations in AI assessment.,66
+UNINA,6.3,0,"No references to UNESCO, EU, or other ethical codes in relation to AI in assessment.",66
+UNINA,7.1,0,No governance roles defined for AI-supported assessment.,67
+UNINA,7.2,0,No oversight bodies designated for AI assessment monitoring.,67
+UNINA,7.3,0,"No mechanisms provided for feedback, complaints, or redress regarding AI in assessment.",67
+UNINA,7.4,0,No commitment to review or independent validation of AI policies in assessment.,67

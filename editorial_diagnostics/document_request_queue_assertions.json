@@ -1,0 +1,30 @@
+{
+  "status": "PASS",
+  "n_source_public_safeguard_rows": 46,
+  "n_admitted_rows": 20,
+  "n_documentary_not_admitted_rows": 26,
+  "hold_dossiers": 9,
+  "documented_dossiers": 2,
+  "case_ids_ordered": [
+    "C01",
+    "C02",
+    "C03",
+    "C04",
+    "C05",
+    "C06",
+    "C07",
+    "C08",
+    "C09",
+    "C10",
+    "C11"
+  ],
+  "missingness_code_counts": {
+    "M0": 20,
+    "M3": 16,
+    "M4": 10
+  },
+  "source_safeguard_matrix_sha256": "2e0a1a51cd49202ae4c28527d8f1a0530320c81a70b5be7c09570d89ebcd145a",
+  "source_case_results_sha256": "16f2c7c9f84a921f62479f1be5442a4ca91d9ba3efc5c826e9fe97d7ec9c16f0",
+  "output_sha256": "8543376f1cc454c50b26c39d033fa94924dd364d0feb225a4a756e1caef1889d",
+  "strict_boundary": "No independent recoding. Requests are literal names of failed applicability-aware mandatory items in the V37 reconstructed safeguard matrix. Do not claim deployment control absence or make new Veto decisions."
+}

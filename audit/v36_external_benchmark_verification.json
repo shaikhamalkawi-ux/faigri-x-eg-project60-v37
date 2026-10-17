@@ -1,0 +1,19 @@
+{
+  "checks": {
+    "canada_412": true,
+    "canada_subset_33": true,
+    "source_registry_38": true,
+    "full_status_counts": true,
+    "subset_status_counts": true,
+    "description_412": true,
+    "primary_users_410": true,
+    "educause_values": true,
+    "main_has_canada_412": true,
+    "main_has_educause_36": true,
+    "main_has_registry_38": true,
+    "supp_has_registry_38": true,
+    "figures_present": true,
+    "outreach_present": true
+  },
+  "overall_passed": true
+}

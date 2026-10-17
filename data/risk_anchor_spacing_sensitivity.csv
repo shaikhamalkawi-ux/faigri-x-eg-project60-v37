@@ -1,0 +1,34 @@
+Mapping,Case_ID,Original_Risk_Anchor,Alternative_Risk_Anchor,S_lambda_0.75,Band,Public_Upper_Count,Public_Review_Count,Public_Lower_Count,Interpretation_Boundary
+Declared anchors,C01,0.55,0.55,0.3971959180145004,Review,0,5,6,Illustrative rank-preserving spacing sensitivity; not empirical calibration.
+Declared anchors,C02,0.55,0.55,0.3971959180145004,Review,0,5,6,Illustrative rank-preserving spacing sensitivity; not empirical calibration.
+Declared anchors,C03,0.4,0.4,0.42967456799539633,Review,0,5,6,Illustrative rank-preserving spacing sensitivity; not empirical calibration.
+Declared anchors,C04,0.7,0.7,0.35493321862008903,Review,0,5,6,Illustrative rank-preserving spacing sensitivity; not empirical calibration.
+Declared anchors,C05,0.7,0.7,0.29577768218340755,Lower,0,5,6,Illustrative rank-preserving spacing sensitivity; not empirical calibration.
+Declared anchors,C06,0.7,0.7,0.29577768218340755,Lower,0,5,6,Illustrative rank-preserving spacing sensitivity; not empirical calibration.
+Declared anchors,C07,0.9,0.9,0.2851275955402275,Lower,0,5,6,Illustrative rank-preserving spacing sensitivity; not empirical calibration.
+Declared anchors,C08,0.9,0.9,0.2342119534794726,Lower,0,5,6,Illustrative rank-preserving spacing sensitivity; not empirical calibration.
+Declared anchors,C09,0.5,0.5,0.3161530682438472,Review,0,5,6,Illustrative rank-preserving spacing sensitivity; not empirical calibration.
+Declared anchors,C10,0.9,0.9,0.2342119534794726,Lower,0,5,6,Illustrative rank-preserving spacing sensitivity; not empirical calibration.
+Declared anchors,C11,0.6,0.6,0.26780382368114475,Lower,0,5,6,Illustrative rank-preserving spacing sensitivity; not empirical calibration.
+Compressed monotone spacing,C01,0.55,0.525,0.40471359949789487,Review,0,8,3,Illustrative rank-preserving spacing sensitivity; not empirical calibration.
+Compressed monotone spacing,C02,0.55,0.525,0.40471359949789487,Review,0,8,3,Illustrative rank-preserving spacing sensitivity; not empirical calibration.
+Compressed monotone spacing,C03,0.4,0.45,0.4138601453297714,Review,0,8,3,Illustrative rank-preserving spacing sensitivity; not empirical calibration.
+Compressed monotone spacing,C04,0.7,0.625,0.37547040576275464,Review,0,8,3,Illustrative rank-preserving spacing sensitivity; not empirical calibration.
+Compressed monotone spacing,C05,0.7,0.625,0.31289200480229556,Review,0,8,3,Illustrative rank-preserving spacing sensitivity; not empirical calibration.
+Compressed monotone spacing,C06,0.7,0.625,0.31289200480229556,Review,0,8,3,Illustrative rank-preserving spacing sensitivity; not empirical calibration.
+Compressed monotone spacing,C07,0.9,0.75,0.31907838184931686,Review,0,8,3,Illustrative rank-preserving spacing sensitivity; not empirical calibration.
+Compressed monotone spacing,C08,0.9,0.75,0.2621000993762246,Lower,0,8,3,Illustrative rank-preserving spacing sensitivity; not empirical calibration.
+Compressed monotone spacing,C09,0.5,0.5,0.3161530682438472,Review,0,8,3,Illustrative rank-preserving spacing sensitivity; not empirical calibration.
+Compressed monotone spacing,C10,0.9,0.75,0.2621000993762246,Lower,0,8,3,Illustrative rank-preserving spacing sensitivity; not empirical calibration.
+Compressed monotone spacing,C11,0.6,0.55,0.2780371426101502,Lower,0,8,3,Illustrative rank-preserving spacing sensitivity; not empirical calibration.
+Expanded monotone spacing,C01,0.55,0.475,0.42017851438088333,Review,0,5,6,Illustrative rank-preserving spacing sensitivity; not empirical calibration.
+Expanded monotone spacing,C02,0.55,0.475,0.42017851438088333,Review,0,5,6,Illustrative rank-preserving spacing sensitivity; not empirical calibration.
+Expanded monotone spacing,C03,0.4,0.25,0.4808368885446322,Review,0,5,6,Illustrative rank-preserving spacing sensitivity; not empirical calibration.
+Expanded monotone spacing,C04,0.7,0.75,0.3418696948385538,Review,0,5,6,Illustrative rank-preserving spacing sensitivity; not empirical calibration.
+Expanded monotone spacing,C05,0.7,0.75,0.2848914123654615,Lower,0,5,6,Illustrative rank-preserving spacing sensitivity; not empirical calibration.
+Expanded monotone spacing,C06,0.7,0.75,0.2848914123654615,Lower,0,5,6,Illustrative rank-preserving spacing sensitivity; not empirical calibration.
+Expanded monotone spacing,C07,0.9,1.0,0.2645252695349682,Lower,0,5,6,Illustrative rank-preserving spacing sensitivity; not empirical calibration.
+Expanded monotone spacing,C08,0.9,1.0,0.21728861426086674,Lower,0,5,6,Illustrative rank-preserving spacing sensitivity; not empirical calibration.
+Expanded monotone spacing,C09,0.5,0.4,0.3407763815135902,Review,0,5,6,Illustrative rank-preserving spacing sensitivity; not empirical calibration.
+Expanded monotone spacing,C10,0.9,1.0,0.21728861426086674,Lower,0,5,6,Illustrative rank-preserving spacing sensitivity; not empirical calibration.
+Expanded monotone spacing,C11,0.6,0.55,0.2780371426101502,Lower,0,5,6,Illustrative rank-preserving spacing sensitivity; not empirical calibration.

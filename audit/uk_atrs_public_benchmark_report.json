@@ -1,0 +1,97 @@
+{
+  "audit_name": "UK ATRS education-relevant public documentary benchmark",
+  "source_scope": "Purposive eight-record subset from the official GOV.UK ATRS repository",
+  "extraction_date": "2026-07-22",
+  "registry_records": 8,
+  "record_dimension_cells": 40,
+  "coverage_totals": {
+    "Direct": 31,
+    "Partial": 9,
+    "None": 0
+  },
+  "all_five_direct_records": 2,
+  "production_records": 4,
+  "production_all_five_direct": 0,
+  "dimension_summary": [
+    {
+      "Dimension_Code": "P",
+      "Dimension": "Privacy and data governance",
+      "Direct": 8,
+      "Partial": 0,
+      "None": 0,
+      "N": 8
+    },
+    {
+      "Dimension_Code": "F",
+      "Dimension": "Fairness and accessibility",
+      "Direct": 3,
+      "Partial": 5,
+      "None": 0,
+      "N": 8
+    },
+    {
+      "Dimension_Code": "T",
+      "Dimension": "Transparency and limitations",
+      "Direct": 8,
+      "Partial": 0,
+      "None": 0,
+      "N": 8
+    },
+    {
+      "Dimension_Code": "H",
+      "Dimension": "Human review and appeal",
+      "Direct": 5,
+      "Partial": 3,
+      "None": 0,
+      "N": 8
+    },
+    {
+      "Dimension_Code": "L",
+      "Dimension": "Accountability and risk",
+      "Direct": 7,
+      "Partial": 1,
+      "None": 0,
+      "N": 8
+    }
+  ],
+  "phase_summary": [
+    {
+      "Phase": "Beta/Pilot",
+      "Records": 1,
+      "Mean_Direct_Count": 3.0,
+      "All_Five_Direct": 0,
+      "Mean_Partial_Count": 2.0
+    },
+    {
+      "Phase": "Pre-deployment",
+      "Records": 1,
+      "Mean_Direct_Count": 2.0,
+      "All_Five_Direct": 0,
+      "Mean_Partial_Count": 3.0
+    },
+    {
+      "Phase": "Private Beta",
+      "Records": 2,
+      "Mean_Direct_Count": 5.0,
+      "All_Five_Direct": 2,
+      "Mean_Partial_Count": 0.0
+    },
+    {
+      "Phase": "Production",
+      "Records": 4,
+      "Mean_Direct_Count": 4.0,
+      "All_Five_Direct": 0,
+      "Mean_Partial_Count": 1.0
+    }
+  ],
+  "admission_decision": "Admitted for bounded cross-framework documentary-coverage analysis",
+  "excluded_claims": [
+    "No external outcome validation",
+    "No score calibration or weight derivation",
+    "No inference about population prevalence",
+    "No causal or inferential comparison by deployment phase",
+    "No claim that public documentation proves implementation effectiveness"
+  ],
+  "single_analyst_boundary": "Coverage states are single-analyst public-document coding; no intercoder reliability is claimed.",
+  "overall_passed": true
+}

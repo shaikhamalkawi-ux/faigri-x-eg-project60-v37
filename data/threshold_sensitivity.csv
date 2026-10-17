@@ -1,0 +1,5 @@
+Scenario,tau_L,tau_H,Public_Upper,Public_Review,Public_Lower,Public_Upper_Mandatory_Evidence_Documented,Public_Review_Mandatory_Evidence_Documented,Public_Review_Veto_Hold,Public_Lower_Veto_Hold,Public_Total_Veto_Hold,C12_Protocol_Band,C12_Protocol_Evidence_Status
+Stress-lenient,0.25,0.4,1,8,2,1,1,7,2,9,Review,Veto Hold
+Lenient,0.25,0.5,0,9,2,0,2,7,2,9,Review,Veto Hold
+Baseline,0.3,0.55,0,5,6,0,2,3,6,9,Review,Veto Hold
+Stricter,0.35,0.6,0,4,7,0,2,2,7,9,Lower,Veto Hold

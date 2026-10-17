@@ -1,0 +1,6 @@
+﻿ATRS_Evidence_Area,FAIGRI_Construct,Benchmark_Use,Excluded_Inference
+"Data specification, storage, sharing and impact assessment",P — privacy and data protection,Direct documentary coverage only,No data-security or privacy compliance certification
+"Equality, bias, representativeness and accessibility evidence",F — fairness and bias control,Direct/partial/none coverage,No measured fairness or subgroup performance claim
+"Detailed description, inputs/outputs, model performance and limitations",T — transparency and explainability,Disclosure coverage,No model-validity or explainability effectiveness claim
+"Human review, training, appeals and review",H — human oversight and appealability,Process-document coverage,No claim that review or appeal is effective in practice
+"Senior ownership, impact assessments, risks and mitigations",L — legal and institutional accountability,Accountability-document coverage,No legal certification or procurement approval

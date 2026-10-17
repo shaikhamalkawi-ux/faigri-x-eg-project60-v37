@@ -1,0 +1,21 @@
+{
+  "title": "Testing the applicability of a governance checklist for high-risk AI-based learning outcome assessment in Italian universities under the EU AI Act Annex III",
+  "authors": [
+    "Flavio Manganello",
+    "Alberto Nico",
+    "Martina Ragusa",
+    "Giannangelo Boccuzzi"
+  ],
+  "journal": "Frontiers in Artificial Intelligence",
+  "publication_date": "2025-12-11",
+  "doi": "10.3389/frai.2025.1718613",
+  "license": "CC BY 4.0",
+  "official_supplement_url": "https://public-pages-files-2025.frontiersin.org/articles/1718613/file/data_sheet_1.pdf/1718613_data-sheet_1/1",
+  "official_article_url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1718613/full",
+  "official_pdf_pages": 67,
+  "screening_rows": 100,
+  "checklist_items": 27,
+  "consensus_rows": 378,
+  "universities_in_consensus_matrix": 14,
+  "important_boundary": "The published detailed matrix contains consensus scores and qualitative coding notes. It does not contain the four separate pre-consensus coder matrices."
+}

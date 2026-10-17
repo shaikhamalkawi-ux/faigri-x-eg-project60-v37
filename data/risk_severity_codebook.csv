@@ -1,0 +1,10 @@
+Use_Case,Risk_Severity,Protocol_Rationale,Calibration_Status,Weighting_Status
+Campus LLM platform,0.55,"Broad institutional use with privacy, overreliance and restricted-use concerns.",Demonstration anchor; not an empirical probability or legally determined class.,No subfactor weights are used.
+AI tutoring,0.4,Learner-facing support with supervision; no direct grade or access decision in the defined case.,Demonstration anchor; not an empirical probability or legally determined class.,No subfactor weights are used.
+AI grading,0.7,Learning-outcome assessment can affect grades and progression.,Demonstration anchor; not an empirical probability or legally determined class.,No subfactor weights are used.
+AI detection/academic integrity,0.7,Outputs may initiate adverse academic-integrity action.,Demonstration anchor; not an empirical probability or legally determined class.,No subfactor weights are used.
+AI proctoring,0.9,"Monitoring during examinations affects privacy, contestability and student rights.",Demonstration anchor; not an empirical probability or legally determined class.,No subfactor weights are used.
+Advising chatbot,0.5,May influence student choices but is framed as advisory rather than determinative.,Demonstration anchor; not an empirical probability or legally determined class.,No subfactor weights are used.
+AI admission/access,0.9,Access or admission decisions can directly affect educational opportunity.,Demonstration anchor; not an empirical probability or legally determined class.,No subfactor weights are used.
+Admissions counseling RAG,0.6,Advisory admissions context with possible influence on access-related decisions.,Demonstration anchor; not an empirical probability or legally determined class.,No subfactor weights are used.
+LLM assessment support,0.7,Assessment-related output can affect feedback or evaluation if over-relied upon.,Demonstration anchor; not an empirical probability or legally determined class.,No subfactor weights are used.

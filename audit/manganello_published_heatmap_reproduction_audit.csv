@@ -1,0 +1,113 @@
+﻿university,measure,supplement_consensus_recomputed,published_heatmap,absolute_difference,pass_2dp,admission_decision
+UNISTRAPG,Dimension 1,41.66666667,58.33,16.66333333,False,Hold item-level quantitative benchmark
+UNISTRAPG,Dimension 2,66.66666667,58.33,8.33666667,False,Hold item-level quantitative benchmark
+UNISTRAPG,Dimension 3,58.33333333,50,8.33333333,False,Hold item-level quantitative benchmark
+UNISTRAPG,Dimension 4,75.0,58.33,16.67,False,Hold item-level quantitative benchmark
+UNISTRAPG,Dimension 5,58.33333333,50,8.33333333,False,Hold item-level quantitative benchmark
+UNISTRAPG,Dimension 6,66.66666667,88.89,22.22333333,False,Hold item-level quantitative benchmark
+UNISTRAPG,Dimension 7,50.0,58.33,8.33,False,Hold item-level quantitative benchmark
+UNISTRAPG,Institutional Index,59.52380952,60.32,0.79619048,False,Hold item-level quantitative benchmark
+UNIPO,Dimension 1,75.0,75,0.0,True,Match
+UNIPO,Dimension 2,58.33333333,58.33,0.00333333,True,Match
+UNIPO,Dimension 3,75.0,75,0.0,True,Match
+UNIPO,Dimension 4,33.33333333,33.33,0.00333333,True,Match
+UNIPO,Dimension 5,50.0,50,0.0,True,Match
+UNIPO,Dimension 6,44.44444444,44.44,0.00444444,True,Match
+UNIPO,Dimension 7,66.66666667,66.67,0.00333333,True,Match
+UNIPO,Institutional Index,57.53968254,57.54,0.00031746,True,Match
+UNIMI,Dimension 1,66.66666667,66.67,0.00333333,True,Match
+UNIMI,Dimension 2,41.66666667,41.67,0.00333333,True,Match
+UNIMI,Dimension 3,50.0,50,0.0,True,Match
+UNIMI,Dimension 4,50.0,50,0.0,True,Match
+UNIMI,Dimension 5,50.0,50,0.0,True,Match
+UNIMI,Dimension 6,77.77777778,77.78,0.00222222,True,Match
+UNIMI,Dimension 7,50.0,50,0.0,True,Match
+UNIMI,Institutional Index,55.15873016,55.16,0.00126984,True,Match
+UNIFI,Dimension 1,58.33333333,58.33,0.00333333,True,Match
+UNIFI,Dimension 2,16.66666667,16.67,0.00333333,True,Match
+UNIFI,Dimension 3,33.33333333,33.33,0.00333333,True,Match
+UNIFI,Dimension 4,50.0,50,0.0,True,Match
+UNIFI,Dimension 5,41.66666667,41.67,0.00333333,True,Match
+UNIFI,Dimension 6,66.66666667,66.67,0.00333333,True,Match
+UNIFI,Dimension 7,25.0,25,0.0,True,Match
+UNIFI,Institutional Index,41.66666667,41.67,0.00333333,True,Match
+UNIBO,Dimension 1,50.0,66.67,16.67,False,Hold item-level quantitative benchmark
+UNIBO,Dimension 2,8.33333333,0,8.33333333,False,Hold item-level quantitative benchmark
+UNIBO,Dimension 3,25.0,16.67,8.33,False,Hold item-level quantitative benchmark
+UNIBO,Dimension 4,8.33333333,41.67,33.33666667,False,Hold item-level quantitative benchmark
+UNIBO,Dimension 5,16.66666667,25,8.33333333,False,Hold item-level quantitative benchmark
+UNIBO,Dimension 6,33.33333333,77.78,44.44666667,False,Hold item-level quantitative benchmark
+UNIBO,Dimension 7,16.66666667,33.33,16.66333333,False,Hold item-level quantitative benchmark
+UNIBO,Institutional Index,22.61904762,37.3,14.68095238,False,Hold item-level quantitative benchmark
+UNIVE,Dimension 1,8.33333333,33.33,24.99666667,False,Hold item-level quantitative benchmark
+UNIVE,Dimension 2,0.0,0,0.0,True,Match
+UNIVE,Dimension 3,33.33333333,41.67,8.33666667,False,Hold item-level quantitative benchmark
+UNIVE,Dimension 4,16.66666667,33.33,16.66333333,False,Hold item-level quantitative benchmark
+UNIVE,Dimension 5,8.33333333,25,16.66666667,False,Hold item-level quantitative benchmark
+UNIVE,Dimension 6,33.33333333,88.89,55.55666667,False,Hold item-level quantitative benchmark
+UNIVE,Dimension 7,0.0,25,25.0,False,Hold item-level quantitative benchmark
+UNIVE,Institutional Index,14.28571429,35.32,21.03428571,False,Hold item-level quantitative benchmark
+UNIBG,Dimension 1,58.33333333,58.33,0.00333333,True,Match
+UNIBG,Dimension 2,25.0,25,0.0,True,Match
+UNIBG,Dimension 3,33.33333333,33.33,0.00333333,True,Match
+UNIBG,Dimension 4,25.0,25,0.0,True,Match
+UNIBG,Dimension 5,25.0,25,0.0,True,Match
+UNIBG,Dimension 6,55.55555556,55.56,0.00444444,True,Match
+UNIBG,Dimension 7,16.66666667,16.67,0.00333333,True,Match
+UNIBG,Institutional Index,34.12698413,34.13,0.00301587,True,Match
+UNITE,Dimension 1,41.66666667,41.67,0.00333333,True,Match
+UNITE,Dimension 2,0.0,0,0.0,True,Match
+UNITE,Dimension 3,33.33333333,33.33,0.00333333,True,Match
+UNITE,Dimension 4,25.0,25,0.0,True,Match
+UNITE,Dimension 5,16.66666667,16.67,0.00333333,True,Match
+UNITE,Dimension 6,88.88888889,88.89,0.00111111,True,Match
+UNITE,Dimension 7,0.0,0,0.0,True,Match
+UNITE,Institutional Index,29.36507937,29.37,0.00492063,True,Match
+UNISI,Dimension 1,50.0,50,0.0,True,Match
+UNISI,Dimension 2,16.66666667,16.67,0.00333333,True,Match
+UNISI,Dimension 3,25.0,25,0.0,True,Match
+UNISI,Dimension 4,41.66666667,41.67,0.00333333,True,Match
+UNISI,Dimension 5,16.66666667,16.67,0.00333333,True,Match
+UNISI,Dimension 6,22.22222222,22.22,0.00222222,True,Match
+UNISI,Dimension 7,25.0,25,0.0,True,Match
+UNISI,Institutional Index,28.17460317,28.17,0.00460317,True,Match
+UNICAM,Dimension 1,50.0,50,0.0,True,Match
+UNICAM,Dimension 2,33.33333333,33.33,0.00333333,True,Match
+UNICAM,Dimension 3,33.33333333,33.33,0.00333333,True,Match
+UNICAM,Dimension 4,8.33333333,8.33,0.00333333,True,Match
+UNICAM,Dimension 5,0.0,0,0.0,True,Match
+UNICAM,Dimension 6,33.33333333,33.33,0.00333333,True,Match
+UNICAM,Dimension 7,33.33333333,33.33,0.00333333,True,Match
+UNICAM,Institutional Index,27.38095238,27.38,0.00095238,True,Match
+UNIPR,Dimension 1,41.66666667,41.67,0.00333333,True,Match
+UNIPR,Dimension 2,0.0,0,0.0,True,Match
+UNIPR,Dimension 3,41.66666667,41.67,0.00333333,True,Match
+UNIPR,Dimension 4,25.0,33.33,8.33,False,Hold item-level quantitative benchmark
+UNIPR,Dimension 5,8.33333333,8.33,0.00333333,True,Match
+UNIPR,Dimension 6,33.33333333,33.33,0.00333333,True,Match
+UNIPR,Dimension 7,16.66666667,16.67,0.00333333,True,Match
+UNIPR,Institutional Index,23.80952381,25,1.19047619,False,Hold item-level quantitative benchmark
+UNITN,Dimension 1,41.66666667,41.67,0.00333333,True,Match
+UNITN,Dimension 2,16.66666667,16.67,0.00333333,True,Match
+UNITN,Dimension 3,25.0,25,0.0,True,Match
+UNITN,Dimension 4,25.0,25,0.0,True,Match
+UNITN,Dimension 5,8.33333333,8.33,0.00333333,True,Match
+UNITN,Dimension 6,33.33333333,33.33,0.00333333,True,Match
+UNITN,Dimension 7,16.66666667,16.67,0.00333333,True,Match
+UNITN,Institutional Index,23.80952381,23.81,0.00047619,True,Match
+POLIMI,Dimension 1,25.0,25,0.0,True,Match
+POLIMI,Dimension 2,8.33333333,8.33,0.00333333,True,Match
+POLIMI,Dimension 3,25.0,25,0.0,True,Match
+POLIMI,Dimension 4,8.33333333,8.33,0.00333333,True,Match
+POLIMI,Dimension 5,0.0,0,0.0,True,Match
+POLIMI,Dimension 6,22.22222222,22.22,0.00222222,True,Match
+POLIMI,Dimension 7,8.33333333,8.33,0.00333333,True,Match
+POLIMI,Institutional Index,13.88888889,13.89,0.00111111,True,Match
+UNINA,Dimension 1,0.0,0,0.0,True,Match
+UNINA,Dimension 2,0.0,0,0.0,True,Match
+UNINA,Dimension 3,0.0,0,0.0,True,Match
+UNINA,Dimension 4,0.0,0,0.0,True,Match
+UNINA,Dimension 5,0.0,0,0.0,True,Match
+UNINA,Dimension 6,0.0,0,0.0,True,Match
+UNINA,Dimension 7,0.0,0,0.0,True,Match
+UNINA,Institutional Index,0.0,0,0.0,True,Match

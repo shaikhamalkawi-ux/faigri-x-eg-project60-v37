@@ -1,0 +1,34 @@
+{
+  "version": "FAIGRI_X_EG_V35_PublicGovernanceBenchmark",
+  "python_version": "3.13.5",
+  "platform": "Linux-4.4.0-x86_64-with-glibc2.41",
+  "entry_point": "python scripts/reproduce_full_analysis.py",
+  "verification_commands": [
+    "python scripts/reproduce_full_analysis.py",
+    "python scripts/verify_numeric_consistency.py",
+    "python scripts/build_uk_atrs_public_benchmark.py",
+    "python scripts/verify_publication_outputs.py",
+    "python scripts/verify_external_evidence.py",
+    "python scripts/verify_package_integrity.py"
+  ],
+  "randomness": "No stochastic calculation in the main analysis; plotting label offsets are deterministic.",
+  "required_packages": [
+    "numpy",
+    "pandas",
+    "matplotlib"
+  ],
+  "evidence_lock_date": "2026-07-05",
+  "package_build_date": "2026-07-22",
+  "public_release_candidate": "1.0.0-rc3",
+  "safeguard_readjudication_freeze_date": "2026-07-12",
+  "external_evidence_audit_command": "python scripts/audit_manganello_public_record.py",
+  "external_consensus_audit_freeze_date": "2026-07-13",
+  "uk_atrs_benchmark_command": "python scripts/build_uk_atrs_public_benchmark.py",
+  "uk_atrs_benchmark_freeze_date": "2026-07-22",
+  "exact_commands": [
+    "python scripts/build_canada_register_benchmark.py",
+    "python scripts/verify_v36_external_benchmarks.py"
+  ],
+  "external_benchmark_version": "EAGLE-Bench V1 public-data layer",
+  "canada_transport_sha256": "b95ad6e00fcf997537058b8b4620d4ff6a256db9f10fc8d3306ccfb5a7dda365"
+}

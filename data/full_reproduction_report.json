@@ -1,0 +1,27 @@
+{
+  "case_count": 12,
+  "public_case_count": 11,
+  "protocol_case_count": 1,
+  "criterion_score_rows": 72,
+  "mandatory_safeguard_rows": 50,
+  "source_registry_rows": 38,
+  "public_veto_hold": 9,
+  "public_mandatory_evidence_documented": 2,
+  "protocol_veto_hold": 1,
+  "public_baseline_band_counts": {
+    "Upper": 5,
+    "Review": 6
+  },
+  "public_risk_adjusted_band_counts": {
+    "Review": 5,
+    "Lower": 6
+  },
+  "topsis_excludes_protocol_case": true,
+  "topsis_six_equal_weights": true,
+  "topsis_ties_are_shared": true,
+  "max_upper_band_critical_lambda_exponential": 0.15820250361750854,
+  "evidence_status_label": "Mandatory evidence documented / Veto Hold",
+  "reproducibility_start": "Disclosed adjudicated case-level matrix",
+  "comparator_scope": "Heterogeneous cross-dossier methodological stress test only",
+  "overall_passed": true
+}

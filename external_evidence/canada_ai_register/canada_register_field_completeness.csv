@@ -1,0 +1,21 @@
+﻿Scope,Field_Code,Field,Nonempty_Count,Total,Percent
+Full register,description,System description,412,412,100.0
+Education/training subset,description,System description,33,33,100.0
+Full register,primary_users,Primary users,410,412,99.515
+Education/training subset,primary_users,Primary users,31,33,93.939
+Full register,developer_type,Developer type,382,412,92.718
+Education/training subset,developer_type,Developer type,33,33,100.0
+Full register,status,Lifecycle status,370,412,89.806
+Education/training subset,status,Lifecycle status,30,33,90.909
+Full register,capabilities,AI capabilities,308,412,74.757
+Education/training subset,capabilities,AI capabilities,28,33,84.848
+Full register,data_sources,Data sources,294,412,71.359
+Education/training subset,data_sources,Data sources,26,33,78.788
+Full register,personal_info,Personal-information indicator,312,412,75.728
+Education/training subset,personal_info,Personal-information indicator,26,33,78.788
+Full register,notification,AI notification indicator,275,412,66.748
+Education/training subset,notification,AI notification indicator,26,33,78.788
+Full register,results,Reported system results,296,412,71.845
+Education/training subset,results,Reported system results,28,33,84.848
+Full register,pib_when_pi_yes,PIB reference when personal information = Y,31,88,35.227
+Education/training subset,pib_when_pi_yes,PIB reference when personal information = Y,0,11,0.0

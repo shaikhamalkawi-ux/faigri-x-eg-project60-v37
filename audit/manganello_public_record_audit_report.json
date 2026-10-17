@@ -1,0 +1,22 @@
+{
+  "screening_rows": 100,
+  "checklist_items": 27,
+  "consensus_rows": 378,
+  "universities": 14,
+  "nonempty_coding_notes": 378,
+  "dimension_cells_compared": 98,
+  "dimension_cells_mismatched_at_2dp": 21,
+  "institutional_indices_compared": 14,
+  "institutional_indices_mismatched_at_2dp": 4,
+  "discrepant_institutions": [
+    "UNIBO",
+    "UNIPR",
+    "UNISTRAPG",
+    "UNIVE"
+  ],
+  "fully_reproduced_institution_profiles": 10,
+  "published_table3_matches_published_figure2": true,
+  "consensus_matrix_admission": "Keep for structural, qualitative-note, and construct-crosswalk audit; Hold for numerical external benchmark",
+  "intercoder_reliability_recomputation": "Not possible from public consensus-only record",
+  "core_faigri_results_changed": false
+}

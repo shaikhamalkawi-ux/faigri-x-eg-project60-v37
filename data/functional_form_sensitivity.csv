@@ -1,0 +1,37 @@
+Functional_Form,Case_ID,Case_Type,Score,Band,Evidence_Status,Upper_Band_Indicator
+Exponential,C01,Public-evidence case,0.3971959180145004,Review,Veto Hold,0
+Exponential,C02,Public-evidence case,0.3971959180145004,Review,Mandatory evidence documented,0
+Exponential,C03,Public-evidence case,0.42967456799539633,Review,Mandatory evidence documented,0
+Exponential,C04,Public-evidence case,0.35493321862008903,Review,Veto Hold,0
+Exponential,C05,Public-evidence case,0.29577768218340755,Lower,Veto Hold,0
+Exponential,C06,Public-evidence case,0.29577768218340755,Lower,Veto Hold,0
+Exponential,C07,Public-evidence case,0.2851275955402275,Lower,Veto Hold,0
+Exponential,C08,Public-evidence case,0.2342119534794726,Lower,Veto Hold,0
+Exponential,C09,Public-evidence case,0.3161530682438472,Review,Veto Hold,0
+Exponential,C10,Public-evidence case,0.2342119534794726,Lower,Veto Hold,0
+Exponential,C11,Public-evidence case,0.26780382368114475,Lower,Veto Hold,0
+Exponential,C12,Protocol stress-test,0.3076087894707439,Review,Veto Hold,0
+Rational,C01,Public-evidence case,0.42477876106194684,Review,Veto Hold,0
+Rational,C02,Public-evidence case,0.42477876106194684,Review,Mandatory evidence documented,0
+Rational,C03,Public-evidence case,0.4461538461538461,Review,Mandatory evidence documented,0
+Rational,C04,Public-evidence case,0.39344262295081966,Review,Veto Hold,0
+Rational,C05,Public-evidence case,0.3278688524590164,Review,Veto Hold,0
+Rational,C06,Public-evidence case,0.3278688524590164,Review,Veto Hold,0
+Rational,C07,Public-evidence case,0.3343283582089552,Review,Veto Hold,0
+Rational,C08,Public-evidence case,0.27462686567164174,Lower,Veto Hold,0
+Rational,C09,Public-evidence case,0.33454545454545453,Review,Veto Hold,0
+Rational,C10,Public-evidence case,0.27462686567164174,Lower,Veto Hold,0
+Rational,C11,Public-evidence case,0.28965517241379307,Lower,Veto Hold,0
+Rational,C12,Protocol stress-test,0.3409836065573771,Review,Veto Hold,0
+Clipped linear,C01,Public-evidence case,0.3524999999999999,Review,Veto Hold,0
+Clipped linear,C02,Public-evidence case,0.3524999999999999,Review,Mandatory evidence documented,0
+Clipped linear,C03,Public-evidence case,0.40599999999999997,Review,Mandatory evidence documented,0
+Clipped linear,C04,Public-evidence case,0.28500000000000003,Lower,Veto Hold,0
+Clipped linear,C05,Public-evidence case,0.23750000000000004,Lower,Veto Hold,0
+Clipped linear,C06,Public-evidence case,0.23750000000000004,Lower,Veto Hold,0
+Clipped linear,C07,Public-evidence case,0.18199999999999997,Lower,Veto Hold,0
+Clipped linear,C08,Public-evidence case,0.14949999999999997,Lower,Veto Hold,0
+Clipped linear,C09,Public-evidence case,0.2875,Lower,Veto Hold,0
+Clipped linear,C10,Public-evidence case,0.14949999999999997,Lower,Veto Hold,0
+Clipped linear,C11,Public-evidence case,0.23099999999999998,Lower,Veto Hold,0
+Clipped linear,C12,Protocol stress-test,0.24700000000000005,Lower,Veto Hold,0

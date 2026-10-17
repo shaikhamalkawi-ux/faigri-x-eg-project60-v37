@@ -1,0 +1,28 @@
+﻿Dimension_Code,Dimension,Item_Code,Checklist_Question,Source_Supplement_Pages
+1,Human agency & oversight,1.1,Does the policy explicitly state that educators must retain final decision-making authority in AI-supported assessment processes?,25-28
+1,Human agency & oversight,1.2,Does the policy establish formal procedures allowing students to appeal or contest AI-influenced assessment outcomes?,25-28
+1,Human agency & oversight,1.3,Does the policy require meaningful human oversight to prevent fully automated grading without educator review?,25-28
+1,Human agency & oversight,1.4,Does the policy mandate staff training on responsible oversight and limitations of AI-supported assessment systems?,25-28
+2,Technical robustness & safety,2.1,"Does the policy require evidence of validity, reliability, and accuracy for AI-supported assessment tools before deployment?",25-28
+2,Technical robustness & safety,2.2,Does the policy mandate that AI outputs demonstrate alignment with intended learning outcomes and assessment criteria?,25-28
+2,Technical robustness & safety,2.3,"Does the policy establish procedures for testing, monitoring errors, and updating or decommissioning AI-supported assessment tools?",25-28
+2,Technical robustness & safety,2.4,Does the policy require internal or external reviews and audits of AI-supported assessment systems?,25-28
+3,Privacy & data governance,3.1,Does the policy explicitly reference compliance with GDPR or equivalent data protection principles for AI-supported assessment?,25-28
+3,Privacy & data governance,3.2,"Does the policy implement data minimization, retention limits, and lawful bases for processing in AI-supported assessment contexts?",25-28
+3,Privacy & data governance,3.3,"Does the policy guarantee students’ rights to access, correction, and deletion of data used in AI-supported assessment?",25-28
+3,Privacy & data governance,3.4,Does the policy assign clear responsibilities to a Data Protection Officer or equivalent role for AI-supported assessment data?,25-28
+4,Transparency,4.1,Does the policy require mandatory disclosure when AI systems influence learning outcomes assessment or grading?,25-28
+4,Transparency,4.2,Does the policy mandate provision of comprehensible explanations for AI-supported assessment decisions to all stakeholders?,25-28
+4,Transparency,4.3,"Does the policy ensure stakeholder access to information about assessment criteria, model limitations, and potential error sources?",25-28
+4,Transparency,4.4,Does the policy establish communication protocols and support resources for non-technical users interpreting AI-supported assessment outcomes?,25-28
+5,"Diversity, fairness & non-discrimination",5.1,Does the policy explicitly prohibit discrimination and bias in AI-supported assessment systems?,25-28
+5,"Diversity, fairness & non-discrimination",5.2,"Does the policy require systematic monitoring for bias and differential impacts across student groups, with mandatory corrective measures?",25-28
+5,"Diversity, fairness & non-discrimination",5.3,Does the policy ensure accessibility and inclusion for disadvantaged or disabled students in AI-supported assessment processes?,25-28
+5,"Diversity, fairness & non-discrimination",5.4,"Does the policy mandate stakeholder consultation in the design, deployment, and evaluation of AI-supported assessment systems?",25-28
+6,Societal & environmental well-being,6.1,"Does the policy explicitly connect AI adoption in assessment to educational values such as inclusion, collaboration, trust, and learner autonomy?",25-28
+6,Societal & environmental well-being,6.2,"Does the policy address environmental implications of AI-supported assessment, including computational resource consumption and sustainability measures?",25-28
+6,Societal & environmental well-being,6.3,Does the policy reference ethical codes or charters that promote human-centered education in relation to AI-supported assessment?,25-28
+7,Accountability,7.1,Does the policy clearly define governance roles and responsibilities for AI-supported assessment implementation and oversight?,25-28
+7,Accountability,7.2,Does the policy establish oversight committees or ethics boards responsible for monitoring AI-supported assessment and addressing grievances?,25-28
+7,Accountability,7.3,"Does the policy create mechanisms for stakeholder consultation, feedback collection, complaints processing, and redress procedures?",25-28
+7,Accountability,7.4,"Does the policy mandate periodic review and updating of AI-supported assessment policies, including requirements for independent validation?",25-28

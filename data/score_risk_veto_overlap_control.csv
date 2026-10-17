@@ -1,0 +1,4 @@
+﻿Layer,Question,Operation,Non_duplication_rule
+Governance criterion score,"How strong is admitted documentation on P, F, T, H, or L?",One equal-weight aggregation,A documentary fact contributes to a criterion only for its criterion-specific evidentiary role.
+Risk severity anchor,What is the consequence profile of the intended educational use?,One multiplicative attenuation,"Risk reflects use-context consequence, not the amount of missing documentation."
+Mandatory evidence gate,Does every context-specific protocol-mandatory item pass the documentary admission rule?,One Boolean conjunction,"The gate changes evidence status, not the numerical criterion score; any shared fact must have its role recorded in the source crosswalk."

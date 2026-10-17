@@ -1,0 +1,22 @@
+{
+  "governance_weights": {
+    "count": 5,
+    "each": 0.2,
+    "sum": 1.0
+  },
+  "topsis_weights": {
+    "count": 6,
+    "each": 0.16666666666666666,
+    "sum": 1.0
+  },
+  "score_bounds_pass": true,
+  "safeguards_binary_pass": true,
+  "not_applicable_rows_excluded_from_veto_product": true,
+  "chained_near_tie_test": true,
+  "c12_excluded_from_public_topsis": true,
+  "dense_tie_tolerance_absolute": 1e-12,
+  "c01_c02_shared_rank": true,
+  "rounded_values_used_as_inputs": false,
+  "risk_spacing_sensitivity_generated": true,
+  "topsis_leave_one_out_generated": true
+}

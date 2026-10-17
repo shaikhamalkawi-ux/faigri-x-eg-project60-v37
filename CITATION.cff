@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "For software/data reuse, cite this FAIGRI-X-EG Project 60 repository. Journal paper authorship is recorded separately in the manuscript."
+title: "FAIGRI-X-EG Project 60 V37 Reproducibility Code and Derived Documentary Evidence"
+version: "37.0-public-review-20261018"
+type: software
+repository-code: "https://github.com/shaikhamalkawi-ux/faigri-x-eg-project60-v37"
+url: "https://github.com/shaikhamalkawi-ux/faigri-x-eg-project60-v37"
+authors:
+  - family-names: "Malkawi"
+    given-names: "Ghassan"
+keywords:
+  - higher education
+  - AI governance
+  - reproducibility
+  - documentary evidence
+  - veto gate

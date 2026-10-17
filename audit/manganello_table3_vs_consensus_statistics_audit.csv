@@ -1,0 +1,36 @@
+Dimension,Metric,Consensus_Matrix_Recomputed,Published_Table3_or_Figure2,Absolute_Difference,Match_at_2dp
+Human agency & oversight,mean,43.452380952380956,47.6192857142857,4.166904761904746,False
+Human agency & oversight,std,20.71854825411862,19.455374762333854,1.263173491784766,False
+Human agency & oversight,min,0.0,0.0,0.0,True
+Human agency & oversight,max,75.0,75.0,0.0,True
+Human agency & oversight,median,45.833333333333336,50.0,4.166666666666664,False
+Technical robustness & safety,mean,20.833333333333336,19.642857142857142,1.1904761904761934,False
+Technical robustness & safety,std,21.865458847193,21.08285027751646,0.7826085696765404,False
+Technical robustness & safety,min,0.0,0.0,0.0,True
+Technical robustness & safety,max,66.66666666666666,58.33,8.336666666666659,False
+Technical robustness & safety,median,16.666666666666664,16.67,0.003333333333337407,True
+Privacy & data governance,mean,35.11904761904761,34.52357142857143,0.5954761904761838,False
+Privacy & data governance,std,17.65607188014577,17.558571260933356,0.09750061921241482,False
+Privacy & data governance,min,0.0,0.0,0.0,True
+Privacy & data governance,max,75.0,75.0,0.0,True
+Privacy & data governance,median,33.33333333333333,33.33,0.0033333333333303017,True
+Transparency,mean,27.976190476190478,30.95142857142857,2.9752380952380904,False
+Transparency,std,20.570688750093797,17.118901320399694,3.451787429694104,False
+Transparency,min,0.0,0.0,0.0,True
+Transparency,max,75.0,58.33,16.67,False
+Transparency,median,25.0,33.33,8.329999999999998,False
+"Diversity, fairness & non-discrimination",mean,21.428571428571427,22.619285714285716,1.1907142857142894,False
+"Diversity, fairness & non-discrimination",std,20.337506327329407,18.898708325534482,1.4387980017949253,False
+"Diversity, fairness & non-discrimination",min,0.0,0.0,0.0,True
+"Diversity, fairness & non-discrimination",max,58.333333333333336,50.0,8.333333333333336,False
+"Diversity, fairness & non-discrimination",median,16.666666666666664,20.835,4.1683333333333366,False
+Societal & environmental well-being,mean,43.65079365079366,52.3807142857143,8.729920634920639,False
+Societal & environmental well-being,std,24.446109389408587,29.375871172492182,4.929761783083595,False
+Societal & environmental well-being,min,0.0,0.0,0.0,True
+Societal & environmental well-being,max,88.88888888888889,88.89,0.0011111111111148375,True
+Societal & environmental well-being,median,33.33333333333333,50.0,16.66666666666667,False
+Accountability,mean,23.21428571428571,26.785714285714285,3.571428571428573,False
+Accountability,std,20.459092870273622,20.19609319199583,0.2629996782777937,False
+Accountability,min,0.0,0.0,0.0,True
+Accountability,max,66.66666666666666,66.67,0.0033333333333445125,True
+Accountability,median,16.666666666666664,25.0,8.333333333333336,False

@@ -1,0 +1,4 @@
+Claim,Item_Code,Published_Numerator,Published_Denominator,Consensus_Matrix_Observed_Numerator,Consensus_Matrix_Denominator,Reproduced,Published_Wording_Summary
+Appeal or contest procedures absent,1.2,12,13,12,13,True,Article states 12 of 13 policy institutions failed to establish appeal procedures.
+Data access/rectification/erasure absent,3.3,12,13,11,13,False,Article states 12 of 13 failed to articulate these rights.
+Stakeholder consultation absent,5.4,12,13,9,13,False,Article states 12 institutions scored zero.

@@ -1,0 +1,23 @@
+{
+  "records": 412,
+  "departments": 43,
+  "education_training_subset": 33,
+  "status_full": {
+    "In development": 182,
+    "In production": 160,
+    "Retired": 28,
+    "Not reported": 42
+  },
+  "status_subset": {
+    "In development": 9,
+    "In production": 21,
+    "Not reported": 3
+  },
+  "personal_information_yes": 88,
+  "notification_yes": 196,
+  "source_dataset_url": "https://open.canada.ca/data/dataset/fcbc0200-79ba-4fa4-94a6-00e32facea6b",
+  "source_resource_url": "https://open.canada.ca/data/dataset/fcbc0200-79ba-4fa4-94a6-00e32facea6b/resource/369f6f34-148a-42ed-b581-8c164e941a89",
+  "transport_copy_url": "https://huggingface.co/datasets/GreatNorthCollective/greatnorth-ai-register/raw/main/data/processed/greatnorth_ai_register.csv",
+  "transport_copy_sha256": "b95ad6e00fcf997537058b8b4620d4ff6a256db9f10fc8d3306ccfb5a7dda365",
+  "boundary": "The transport copy preserves official source and license fields. The official open-data record remains authoritative. Results describe released schema completeness, not control implementation or institutional readiness."
+}

@@ -1,0 +1,9 @@
+﻿Record_ID,Title,Organisation,Phase,Decision_Role,P_Privacy_Data,F_Fairness_Accessibility,T_Transparency_Limitations,H_Human_Review_Appeal,L_Accountability_Risk,Direct_Count,Partial_Count,None_Count,All_Five_Direct
+ATRS-E01,Survey Summarisation Tool,Ofsted,Private Beta,Advisory inspection-support LLM,Direct,Direct,Direct,Direct,Direct,5,0,0,1
+ATRS-E02,Maritime and Coastguard Agency: Proview Proctoring Tool,Maritime and Coastguard Agency,Production,Human-reviewed proctoring flags,Direct,Partial,Direct,Direct,Direct,4,1,0,0
+ATRS-E03,DfE: Attendance reports using similar schools,Department for Education,Beta/Pilot,Advisory school-level analytics,Direct,Partial,Direct,Partial,Direct,3,2,0,0
+ATRS-E04,AI Writing Assistant (Social Care),Ofsted,Private Beta,Human-edited regulatory-report drafting,Direct,Direct,Direct,Direct,Direct,5,0,0,1
+ATRS-E05,Standards and Testing Agency: Key stage 2 Test Administration form rules,Standards and Testing Agency,Production,Partly and fully automated rules decisions,Direct,Partial,Direct,Direct,Direct,4,1,0,0
+ATRS-E06,Standards and Testing Agency: Reception Baseline Assessment Routing,Standards and Testing Agency,Production,Fully automated adaptive routing,Direct,Direct,Direct,Partial,Direct,4,1,0,0
+ATRS-E07,Student Loans Company: Advanced Learning Loans Assessment Rules,Student Loans Company,Production,Automated eligibility and entitlement rules,Direct,Partial,Direct,Direct,Direct,4,1,0,0
+ATRS-E08,DfE: Apprenticeship Withdrawal Rate AI,Department for Education,Pre-deployment,Predictive support and personalised-content targeting,Direct,Partial,Direct,Partial,Partial,2,3,0,0

@@ -1,0 +1,12 @@
+Case_ID,Case_Name,TOPSIS_CC,TOPSIS_rank,Tie_Group_Size,Tie_Status,Absolute_Tie_Tolerance
+C03,Khanmigo AI tutor,0.7032844415951066,1.0,1,Unique rank,1e-12
+C01,ChatGPT Edu campus platform,0.6762955272185266,2.0,2,Shared rank,1e-12
+C02,ASU ChatGPT Edu deployment,0.6762955272185266,2.0,2,Shared rank,1e-12
+C04,Gradescope AI-assisted grading,0.6092258093719869,3.0,1,Unique rank,1e-12
+C07,Respondus Monitor,0.5319385281150601,4.0,1,Unique rank,1e-12
+C09,GSU Pounce advising chatbot,0.45536946002784795,5.0,1,Unique rank,1e-12
+C05,Pensieve Grader,0.4331530167389839,6.0,1,Unique rank,1e-12
+C06,Turnitin AI Writing Report,0.4238960349040858,7.0,1,Unique rank,1e-12
+C08,Proctorio remote proctoring,0.36677967451060806,8.0,1,Unique rank,1e-12
+C11,MARAUS admissions counseling RAG,0.3209559074908792,9.0,1,Unique rank,1e-12
+C10,Admissions ML case study,0.30843676356386673,10.0,1,Unique rank,1e-12

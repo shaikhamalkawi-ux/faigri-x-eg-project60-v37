@@ -1,0 +1,11 @@
+Case,Use context,Final paired state,Missing admitted evidence,Source basis
+C01,Campus LLM platform,Review numerical-score band + Veto Hold,Institutional use policy; Human oversight; Restricted-use boundaries,OpenAI ChatGPT Edu product page plus protocol campus-LLM requirements
+C04,AI grading,Review numerical-score band + Veto Hold,Human appeal; Audit trail; Fairness or bias evidence,EU AI Act learning-outcome assessment; NIST MEASURE/MANAGE; Canada AIA; audit/model-card literature
+C05,AI grading,Lower numerical-score band + Veto Hold,Human appeal; Audit trail; Fairness or bias evidence; Documented instructor-override protocol,EU AI Act learning-outcome assessment; NIST MEASURE/MANAGE; Canada AIA
+C06,AI detection/academic integrity,Lower numerical-score band + Veto Hold,Appeal pathway; Student contestability,NIST GenAI information integrity; UNESCO assessment guidance; Canada AIA mitigation logic
+C07,AI proctoring,Lower numerical-score band + Veto Hold,Proportionality assessment; Contestability; Human review,EU AI Act test-monitoring context; NIST privacy/security/robustness; Canada AIA
+C08,AI proctoring,Lower numerical-score band + Veto Hold,Proportionality assessment; Contestability,EU AI Act test-monitoring context; NIST privacy/security/robustness; Canada AIA
+C09,Advising chatbot,Review numerical-score band + Veto Hold,Escalation to staff; Privacy policy; Institutional accountability,NIST GOVERN/MAP/MANAGE; UNESCO human-centred AI; Canada AIA
+C10,AI admission/access,Lower numerical-score band + Veto Hold,Explainability; Legal review; Appeal or human reconsideration,EU AI Act access/admission/allocation; NIST fairness/transparency; Canada AIA
+C11,Admissions counseling RAG,Lower numerical-score band + Veto Hold,Fairness evidence; Human reconsideration; Legal review if used for access decisions,EU AI Act access/admission/allocation; NIST transparency and oversight; Canada AIA
+C12,LLM assessment support,Review numerical-score band + Veto Hold,Hallucination testing; Attribution policy; Human validation workflow; Assessment-use restrictions,EU AI Act learning-outcome assessment; NIST GenAI confabulation/information integrity; UNESCO GenAI guidance

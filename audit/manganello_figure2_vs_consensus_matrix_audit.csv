@@ -1,0 +1,113 @@
+University_Code,Measure,Consensus_Matrix_Recomputed,Published_Figure2,Absolute_Difference,Match_at_2dp,Admission_Decision
+UNISTRAPG,Human agency & oversight,41.66666666666667,58.33,16.663333333333327,False,Hold for quantitative benchmark
+UNISTRAPG,Technical robustness & safety,66.66666666666666,58.33,8.336666666666659,False,Hold for quantitative benchmark
+UNISTRAPG,Privacy & data governance,58.333333333333336,50.0,8.333333333333336,False,Hold for quantitative benchmark
+UNISTRAPG,Transparency,75.0,58.33,16.67,False,Hold for quantitative benchmark
+UNISTRAPG,"Diversity, fairness & non-discrimination",58.333333333333336,50.0,8.333333333333336,False,Hold for quantitative benchmark
+UNISTRAPG,Societal & environmental well-being,66.66666666666666,88.89,22.223333333333343,False,Hold for quantitative benchmark
+UNISTRAPG,Accountability,50.0,58.33,8.329999999999998,False,Hold for quantitative benchmark
+UNISTRAPG,Institutional Index,59.52380952380952,60.32,0.7961904761904819,False,Hold for quantitative benchmark
+UNIPO,Human agency & oversight,75.0,75.0,0.0,True,Match
+UNIPO,Technical robustness & safety,58.333333333333336,58.33,0.003333333333337407,True,Match
+UNIPO,Privacy & data governance,75.0,75.0,0.0,True,Match
+UNIPO,Transparency,33.33333333333333,33.33,0.0033333333333303017,True,Match
+UNIPO,"Diversity, fairness & non-discrimination",50.0,50.0,0.0,True,Match
+UNIPO,Societal & environmental well-being,44.44444444444444,44.44,0.004444444444445139,True,Match
+UNIPO,Accountability,66.66666666666666,66.67,0.0033333333333445125,True,Match
+UNIPO,Institutional Index,57.539682539682545,57.54,0.0003174603174542767,True,Match
+UNIMI,Human agency & oversight,66.66666666666666,66.67,0.0033333333333445125,True,Match
+UNIMI,Technical robustness & safety,41.66666666666667,41.67,0.0033333333333303017,True,Match
+UNIMI,Privacy & data governance,50.0,50.0,0.0,True,Match
+UNIMI,Transparency,50.0,50.0,0.0,True,Match
+UNIMI,"Diversity, fairness & non-discrimination",50.0,50.0,0.0,True,Match
+UNIMI,Societal & environmental well-being,77.77777777777779,77.78,0.002222222222215464,True,Match
+UNIMI,Accountability,50.0,50.0,0.0,True,Match
+UNIMI,Institutional Index,55.15873015873016,55.16,0.0012698412698384232,True,Match
+UNIFI,Human agency & oversight,58.333333333333336,58.33,0.003333333333337407,True,Match
+UNIFI,Technical robustness & safety,16.666666666666664,16.67,0.003333333333337407,True,Match
+UNIFI,Privacy & data governance,33.33333333333333,33.33,0.0033333333333303017,True,Match
+UNIFI,Transparency,50.0,50.0,0.0,True,Match
+UNIFI,"Diversity, fairness & non-discrimination",41.66666666666667,41.67,0.0033333333333303017,True,Match
+UNIFI,Societal & environmental well-being,66.66666666666666,66.67,0.0033333333333445125,True,Match
+UNIFI,Accountability,25.0,25.0,0.0,True,Match
+UNIFI,Institutional Index,41.666666666666664,41.67,0.003333333333337407,True,Match
+UNIBO,Human agency & oversight,50.0,66.67,16.67,False,Hold for quantitative benchmark
+UNIBO,Technical robustness & safety,8.333333333333332,0.0,8.333333333333332,False,Hold for quantitative benchmark
+UNIBO,Privacy & data governance,25.0,16.67,8.329999999999998,False,Hold for quantitative benchmark
+UNIBO,Transparency,8.333333333333332,41.67,33.33666666666667,False,Hold for quantitative benchmark
+UNIBO,"Diversity, fairness & non-discrimination",16.666666666666664,25.0,8.333333333333336,False,Hold for quantitative benchmark
+UNIBO,Societal & environmental well-being,33.33333333333333,77.78,44.44666666666667,False,Hold for quantitative benchmark
+UNIBO,Accountability,16.666666666666664,33.33,16.663333333333334,False,Hold for quantitative benchmark
+UNIBO,Institutional Index,22.619047619047613,37.3,14.680952380952384,False,Hold for quantitative benchmark
+UNIVE,Human agency & oversight,8.333333333333332,33.33,24.996666666666666,False,Hold for quantitative benchmark
+UNIVE,Technical robustness & safety,0.0,0.0,0.0,True,Match
+UNIVE,Privacy & data governance,33.33333333333333,41.67,8.336666666666673,False,Hold for quantitative benchmark
+UNIVE,Transparency,16.666666666666664,33.33,16.663333333333334,False,Hold for quantitative benchmark
+UNIVE,"Diversity, fairness & non-discrimination",8.333333333333332,25.0,16.666666666666668,False,Hold for quantitative benchmark
+UNIVE,Societal & environmental well-being,33.33333333333333,88.89,55.55666666666667,False,Hold for quantitative benchmark
+UNIVE,Accountability,0.0,25.0,25.0,False,Hold for quantitative benchmark
+UNIVE,Institutional Index,14.285714285714283,35.32,21.034285714285716,False,Hold for quantitative benchmark
+UNIBG,Human agency & oversight,58.333333333333336,58.33,0.003333333333337407,True,Match
+UNIBG,Technical robustness & safety,25.0,25.0,0.0,True,Match
+UNIBG,Privacy & data governance,33.33333333333333,33.33,0.0033333333333303017,True,Match
+UNIBG,Transparency,25.0,25.0,0.0,True,Match
+UNIBG,"Diversity, fairness & non-discrimination",25.0,25.0,0.0,True,Match
+UNIBG,Societal & environmental well-being,55.55555555555556,55.56,0.004444444444445139,True,Match
+UNIBG,Accountability,16.666666666666664,16.67,0.003333333333337407,True,Match
+UNIBG,Institutional Index,34.12698412698413,34.13,0.003015873015876025,True,Match
+UNITE,Human agency & oversight,41.66666666666667,41.67,0.0033333333333303017,True,Match
+UNITE,Technical robustness & safety,0.0,0.0,0.0,True,Match
+UNITE,Privacy & data governance,33.33333333333333,33.33,0.0033333333333303017,True,Match
+UNITE,Transparency,25.0,25.0,0.0,True,Match
+UNITE,"Diversity, fairness & non-discrimination",16.666666666666664,16.67,0.003333333333337407,True,Match
+UNITE,Societal & environmental well-being,88.88888888888889,88.89,0.0011111111111148375,True,Match
+UNITE,Accountability,0.0,0.0,0.0,True,Match
+UNITE,Institutional Index,29.365079365079364,29.37,0.004920634920637212,True,Match
+UNISI,Human agency & oversight,50.0,50.0,0.0,True,Match
+UNISI,Technical robustness & safety,16.666666666666664,16.67,0.003333333333337407,True,Match
+UNISI,Privacy & data governance,25.0,25.0,0.0,True,Match
+UNISI,Transparency,41.66666666666667,41.67,0.0033333333333303017,True,Match
+UNISI,"Diversity, fairness & non-discrimination",16.666666666666664,16.67,0.003333333333337407,True,Match
+UNISI,Societal & environmental well-being,22.22222222222222,22.22,0.0022222222222225696,True,Match
+UNISI,Accountability,25.0,25.0,0.0,True,Match
+UNISI,Institutional Index,28.17460317460317,28.17,0.004603174603168725,True,Match
+UNICAM,Human agency & oversight,50.0,50.0,0.0,True,Match
+UNICAM,Technical robustness & safety,33.33333333333333,33.33,0.0033333333333303017,True,Match
+UNICAM,Privacy & data governance,33.33333333333333,33.33,0.0033333333333303017,True,Match
+UNICAM,Transparency,8.333333333333332,8.33,0.003333333333332078,True,Match
+UNICAM,"Diversity, fairness & non-discrimination",0.0,0.0,0.0,True,Match
+UNICAM,Societal & environmental well-being,33.33333333333333,33.33,0.0033333333333303017,True,Match
+UNICAM,Accountability,33.33333333333333,33.33,0.0033333333333303017,True,Match
+UNICAM,Institutional Index,27.380952380952376,27.38,0.000952380952377041,True,Match
+UNIPR,Human agency & oversight,41.66666666666667,41.67,0.0033333333333303017,True,Match
+UNIPR,Technical robustness & safety,0.0,0.0,0.0,True,Match
+UNIPR,Privacy & data governance,41.66666666666667,41.67,0.0033333333333303017,True,Match
+UNIPR,Transparency,25.0,33.33,8.329999999999998,False,Hold for quantitative benchmark
+UNIPR,"Diversity, fairness & non-discrimination",8.333333333333332,8.33,0.003333333333332078,True,Match
+UNIPR,Societal & environmental well-being,33.33333333333333,33.33,0.0033333333333303017,True,Match
+UNIPR,Accountability,16.666666666666664,16.67,0.003333333333337407,True,Match
+UNIPR,Institutional Index,23.809523809523807,25.0,1.1904761904761934,False,Hold for quantitative benchmark
+UNITN,Human agency & oversight,41.66666666666667,41.67,0.0033333333333303017,True,Match
+UNITN,Technical robustness & safety,16.666666666666664,16.67,0.003333333333337407,True,Match
+UNITN,Privacy & data governance,25.0,25.0,0.0,True,Match
+UNITN,Transparency,25.0,25.0,0.0,True,Match
+UNITN,"Diversity, fairness & non-discrimination",8.333333333333332,8.33,0.003333333333332078,True,Match
+UNITN,Societal & environmental well-being,33.33333333333333,33.33,0.0033333333333303017,True,Match
+UNITN,Accountability,16.666666666666664,16.67,0.003333333333337407,True,Match
+UNITN,Institutional Index,23.809523809523807,23.81,0.0004761904761920732,True,Match
+POLIMI,Human agency & oversight,25.0,25.0,0.0,True,Match
+POLIMI,Technical robustness & safety,8.333333333333332,8.33,0.003333333333332078,True,Match
+POLIMI,Privacy & data governance,25.0,25.0,0.0,True,Match
+POLIMI,Transparency,8.333333333333332,8.33,0.003333333333332078,True,Match
+POLIMI,"Diversity, fairness & non-discrimination",0.0,0.0,0.0,True,Match
+POLIMI,Societal & environmental well-being,22.22222222222222,22.22,0.0022222222222225696,True,Match
+POLIMI,Accountability,8.333333333333332,8.33,0.003333333333332078,True,Match
+POLIMI,Institutional Index,13.888888888888888,13.89,0.0011111111111130612,True,Match
+UNINA,Human agency & oversight,0.0,0.0,0.0,True,Match
+UNINA,Technical robustness & safety,0.0,0.0,0.0,True,Match
+UNINA,Privacy & data governance,0.0,0.0,0.0,True,Match
+UNINA,Transparency,0.0,0.0,0.0,True,Match
+UNINA,"Diversity, fairness & non-discrimination",0.0,0.0,0.0,True,Match
+UNINA,Societal & environmental well-being,0.0,0.0,0.0,True,Match
+UNINA,Accountability,0.0,0.0,0.0,True,Match
+UNINA,Institutional Index,0.0,0.0,0.0,True,Match

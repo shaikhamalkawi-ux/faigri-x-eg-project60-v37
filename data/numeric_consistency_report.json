@@ -1,0 +1,78 @@
+{
+  "governance_readiness": {
+    "max_abs_error": 5.551115123125783e-17,
+    "passed": true
+  },
+  "risk_adjustment": {
+    "max_abs_error": 5.551115123125783e-17,
+    "passed": true
+  },
+  "veto_matrix": {
+    "rows": 50,
+    "mismatch_count": 0,
+    "record_origin_fields_complete": true,
+    "passed": true
+  },
+  "scope": {
+    "public_cases": 11,
+    "protocol_cases": 1,
+    "source_records": 38,
+    "criterion_rows": 72,
+    "passed": true
+  },
+  "public_counts": {
+    "baseline": {
+      "Review": 6,
+      "Upper": 5
+    },
+    "risk_adjusted": {
+      "Lower": 6,
+      "Review": 5
+    },
+    "mandatory_evidence_documented": 2,
+    "veto_hold": 9,
+    "passed": true
+  },
+  "topsis": {
+    "dimensions": 6,
+    "weight_each": 0.16666666666666666,
+    "weight_sum": 1.0,
+    "max_abs_error": 5.551115123125783e-17,
+    "protocol_included_count": 0,
+    "shared_tie": true,
+    "passed": true
+  },
+  "functional_form": {
+    "public_upper_counts": {},
+    "tested_forms": [
+      "Clipped linear",
+      "Exponential",
+      "Rational"
+    ],
+    "passed": true
+  },
+  "upper_breakpoint": {
+    "max_critical_lambda": 0.1582025036175085,
+    "expected": 0.15820250361750854,
+    "passed": true
+  },
+  "transition_range": {
+    "lambda_0_16_upper": 0,
+    "passed": true
+  },
+  "threshold_grid": {
+    "rows": 4,
+    "veto_hold_constant": [
+      9
+    ],
+    "passed": true
+  },
+  "assertions": {
+    "score_bounds_pass": true,
+    "safeguards_binary_pass": true,
+    "c12_excluded": true,
+    "rounded_values_used_as_inputs": false,
+    "passed": true
+  },
+  "overall_passed": true
+}

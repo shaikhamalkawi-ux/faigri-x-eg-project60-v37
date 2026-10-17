@@ -1,0 +1,8 @@
+﻿Scope,Lifecycle_Status,Count,Percent
+Full register,In development,182,44.175
+Full register,In production,160,38.835
+Full register,Not reported,42,10.194
+Full register,Retired,28,6.796
+Education/training subset,In development,9,27.273
+Education/training subset,In production,21,63.636
+Education/training subset,Not reported,3,9.091

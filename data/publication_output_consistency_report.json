@@ -1,0 +1,57 @@
+{
+  "expected_topsis": {
+    "C01": 0.676296,
+    "C02": 0.676296,
+    "C03": 0.703284,
+    "C04": 0.609226,
+    "C05": 0.433153,
+    "C06": 0.423896,
+    "C07": 0.531939,
+    "C08": 0.36678,
+    "C09": 0.455369,
+    "C10": 0.308437,
+    "C11": 0.320956
+  },
+  "supplement_displayed_topsis": {
+    "C03": 0.703284,
+    "C01": 0.676296,
+    "C02": 0.676296,
+    "C04": 0.609226,
+    "C07": 0.531939,
+    "C09": 0.455369,
+    "C05": 0.433153,
+    "C06": 0.423896,
+    "C08": 0.36678,
+    "C11": 0.320956,
+    "C10": 0.308437
+  },
+  "main_displayed_top5": {
+    "C03": 0.703,
+    "C01": 0.676,
+    "C02": 0.676,
+    "C04": 0.609,
+    "C07": 0.532
+  },
+  "missing_supplement": [],
+  "supplement_mismatch": {},
+  "missing_main_top5": [],
+  "main_top5_mismatch": {},
+  "evidence_status_counts": {
+    "Veto Hold": 9,
+    "Mandatory evidence documented": 2
+  },
+  "checks": {
+    "supplement_rows_complete": true,
+    "supplement_topsis_matches": true,
+    "main_top5_complete": true,
+    "main_top5_matches_rounded": true,
+    "main_two_documented": true,
+    "main_nine_veto": true,
+    "calculated_two_documented": true,
+    "calculated_nine_veto": true,
+    "supp_threshold_baseline_matches": true,
+    "main_atrs_counts": true,
+    "supp_atrs_counts": true
+  },
+  "overall_passed": true
+}

@@ -1,0 +1,3 @@
+﻿Case_ID,Record_Type,Locked_Design,Result_Effect
+C11,Hybrid context mapping,"Admissions-counseling advisory RAG, not an automated admission decision. Admission/access safeguards apply conditionally if advice supports access decisions.",No change to current veto state or numerical inputs.
+C12,Synthetic stress-test construction,"Criterion profile P=0.50, F=0.50, T=0.50, H=0.60, L=0.50; R=0.70; hallucination testing, attribution policy, human validation, and assessment-use restrictions withheld.",Tests whether a moderate score is blocked by the mandatory evidence gate; excluded from public TOPSIS and public counts.

@@ -1,0 +1,8 @@
+﻿gate_order,gate,pass_condition,failure_status
+1,Population and decision-unit match,Educational-AI use cases or procurement dossiers with independently recorded decisions,Hold as context
+2,Provenance and licensing,"Official or peer-reviewed source, stable version/date, permitted analytic reuse",Missing/Remove
+3,Independent outcome,Outcome not derived from FAIGRI criteria or scores,No external validation claim
+4,Codebook and coding reliability,"Fixed codebook, independent coders, reliability and adjudication trail",Descriptive only
+5,Mapping validity,Pre-specified mapping to FAIGRI dimensions/vetoes without new arbitrary weights,Qualitative crosswalk only
+6,Reproducibility,Machine-readable data and scripts reproduce reported comparisons,Hold
+7,Claim calibration,"Claim limited to observed population, time, and evidence boundary",Revise/Remove claim

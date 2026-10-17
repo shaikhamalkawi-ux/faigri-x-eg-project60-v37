@@ -1,0 +1,6 @@
+Case_ID,G_equal,Risk_R,Upper_Threshold_tau_H,Critical_Lambda_Leaving_Upper,Interpretation
+C07,0.5599999999999999,0.9,0.55,0.02002056166964246,Upper for lambda <= critical value; below Upper for lambda > critical value under the exponential form and fixed threshold.
+C04,0.6,0.7,0.55,0.12430196712804244,Upper for lambda <= critical value; below Upper for lambda > critical value under the exponential form and fixed threshold.
+C03,0.58,0.4,0.55,0.13277456328487083,Upper for lambda <= critical value; below Upper for lambda > critical value under the exponential form and fixed threshold.
+C02,0.6,0.55,0.55,0.15820250361750854,Upper for lambda <= critical value; below Upper for lambda > critical value under the exponential form and fixed threshold.
+C01,0.6,0.55,0.55,0.15820250361750854,Upper for lambda <= critical value; below Upper for lambda > critical value under the exponential form and fixed threshold.

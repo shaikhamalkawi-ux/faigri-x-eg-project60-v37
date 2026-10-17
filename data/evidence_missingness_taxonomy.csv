@@ -1,0 +1,9 @@
+﻿Code,Category,Definition
+M0,Admitted documentation,"Applicable evidence passed presence, currency, specificity, and provenance admission rules."
+M1,Source not located,No candidate source was located for the item.
+M2,Source inaccessible,A candidate source existed but could not be accessed at evidence lock.
+M3,Source silent,The admitted source did not address the mandatory item.
+M4,Insufficient specificity,The source mentioned the topic but did not document the required safeguard specifically enough.
+M5,Not applicable,The safeguard does not apply to the declared use context after protocol-level justification. An M5 row is excluded from the applicable set M_i and is never multiplied as zero.
+M6,Rejected by admission rule,"The evidence was stale, inapplicable, unverifiable, or failed provenance/permitted-use rules."
+M7,Protocol-withheld synthetic condition,The condition is intentionally set to zero in a synthetic stress-test case; it is not interpreted as a missing public source.
